@@ -1,6 +1,6 @@
 ![](http://i.imgur.com/nF8t0GL.jpg)
 
-## Technical Interview Preparation Resources
+## Software Engineering Inteview Resources
 
 ### Long-term reads
 * [CLRS](http://www.amazon.com/dp/0262033844) [[pdf](https://www.google.co.uk/search?q=cormen+pdf)]
