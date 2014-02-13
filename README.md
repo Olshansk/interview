@@ -1,10 +1,10 @@
-# Technical Interview Preparation Cheat-Sheet
+## Technical Interview Preparation Resources
 
 ![](http://i.imgur.com/zAlVKca.png)
 
 ### Long-term reads
 * [CLRS](http://www.amazon.com/dp/0262033844) [[pdf](https://www.google.co.uk/search?q=cormen+pdf)]
-* [Skiena, The Algorithm Design Manual](http://www.amazon.com/dp/1848000693) [[pdf](https://www.google.co.uk/search?q=skiena+algorithm+design+manual+pdf)]
+* [The Algorithm Design Manual](http://www.amazon.com/dp/1848000693) [[pdf](https://www.google.co.uk/search?q=skiena+algorithm+design+manual+pdf)]
 * [more](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 
 ### Resume
