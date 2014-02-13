@@ -33,8 +33,8 @@
 ### Fun
 * [Fight Code Game](http://fightcodegame.com/)
 
-### Other similar Github repos
+### Similar
 * [https://github.com/blakeembrey/code-problems](https://github.com/blakeembrey/code-problems)
 * [https://github.com/ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis)
-* [https://github.com/ruby-jokes/job_interview](https://github.com/ruby-jokes/job_interview) (funny)
+* [https://github.com/ruby-jokes/job_interview](https://github.com/ruby-jokes/job_interview)
 * [https://github.com/alex/what-happens-when](https://github.com/alex/what-happens-when)
