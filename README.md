@@ -1,5 +1,3 @@
-![](http://i.imgur.com/nF8t0GL.jpg)
-
 ## Software Engineering Inteview Resources
 
 ### Long-term reads
@@ -34,3 +32,5 @@
 
 ### Fun
 * [Fight Code Game](http://fightcodegame.com/)
+
+![](http://i.imgur.com/nF8t0GL.jpg)
