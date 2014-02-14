@@ -29,6 +29,7 @@
 ### Video
 * Cracking the Coding Interview [1](http://www.youtube.com/watch?v=rEJzOhC5ZtQ) [2](http://www.youtube.com/watch?v=aClxtDcdpsQ) [3](http://www.youtube.com/watch?v=2cf9xo1S134)
 * Tips from Google Recruiters [technical](http://www.youtube.com/watch?v=qc1owf2-220) [non-technical](http://www.youtube.com/watch?v=DINxNbBOEoI)
+* [Another one from Google](http://www.youtube.com/watch?v=oWbUtlUhwa8)
 
 ### Fun
 * [Fight Code Game](http://fightcodegame.com/)
