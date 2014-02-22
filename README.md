@@ -1,10 +1,8 @@
-# Technical Interview Preparation Cheat-Sheet
-
-![](http://i.imgur.com/zAlVKca.png)
+## Software Engineering Inteview Resources
 
 ### Long-term reads
 * [CLRS](http://www.amazon.com/dp/0262033844) [[pdf](https://www.google.co.uk/search?q=cormen+pdf)]
-* [Skiena, The Algorithm Design Manual](http://www.amazon.com/dp/1848000693) [[pdf](https://www.google.co.uk/search?q=skiena+algorithm+design+manual+pdf)]
+* [The Algorithm Design Manual](http://www.amazon.com/dp/1848000693) [[pdf](https://www.google.co.uk/search?q=skiena+algorithm+design+manual+pdf)]
 * [more](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 
 ### Resume
@@ -34,6 +32,13 @@
 ### Video
 * Cracking the Coding Interview [1](http://www.youtube.com/watch?v=rEJzOhC5ZtQ) [2](http://www.youtube.com/watch?v=aClxtDcdpsQ) [3](http://www.youtube.com/watch?v=2cf9xo1S134)
 * Tips from Google Recruiters [technical](http://www.youtube.com/watch?v=qc1owf2-220) [non-technical](http://www.youtube.com/watch?v=DINxNbBOEoI)
+* [Another one from Google](http://www.youtube.com/watch?v=oWbUtlUhwa8)
 
 ### Fun
 * [Fight Code Game](http://fightcodegame.com/)
+
+### Similar
+* [https://github.com/blakeembrey/code-problems](https://github.com/blakeembrey/code-problems)
+* [https://github.com/ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis)
+* [https://github.com/ruby-jokes/job_interview](https://github.com/ruby-jokes/job_interview)
+* [https://github.com/alex/what-happens-when](https://github.com/alex/what-happens-when)
