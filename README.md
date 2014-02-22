@@ -9,9 +9,12 @@
 
 ### Resume
 * [The Google Resume](http://www.amazon.com/dp/0470927623) [[pdf](https://www.google.co.uk/search?q=the+google+resume+pdf)]
+* [Ten Tips for a (Slightly) Less Awful Resume](http://steve-yegge.blogspot.co.uk/2007/09/ten-tips-for-slightly-less-awful-resume.html)
 
 ### Articles
 * [Get That Job at Google](http://steve-yegge.blogspot.co.uk/2008/03/get-that-job-at-google.html)
+* [Get That Job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920)
+* [Preparing for a technical interview with programming contests](https://www.facebook.com/notes/facebook-engineering/preparing-for-a-technical-interview-with-programming-contests/10151298476823920)
 * [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e)
 * [ABC: Always be Coding](https://medium.com/tech-talk/d5f8051afce2)
 * [How To Prepare For Interviews](http://dandreamsofcoding.com/2012/11/25/how-to-prepare-for-technical-interviews/)
