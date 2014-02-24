@@ -32,7 +32,7 @@
 * [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 
 #### Evaluation (Fermi) questions
-* [Coding Horror](http://www.codinghorror.com/blog/2006/06/how-good-an-estimator-are-you.html)
+* [How Good an Estimator Are You?](http://www.codinghorror.com/blog/2006/06/how-good-an-estimator-are-you.html)
 * [fermiquestions.com](http://www.fermiquestions.com/)
 
 ### Coding practice
@@ -43,7 +43,7 @@
 
 ### Fun
 * [Fight Code Game](http://fightcodegame.com/)
-* [Questions I Want to Ask, but Can't](http://dandreamsofcoding.com/2013/03/01/questions-i-want-to-ask-but-cant/) – a bunch of fun, slightly harder, interview questions
+* [Questions I Want to Ask, but Can't](http://dandreamsofcoding.com/2013/03/01/questions-i-want-to-ask-but-cant/)
 
 ## Similar (or not) repos
 * [https://github.com/blakeembrey/code-problems](https://github.com/blakeembrey/code-problems)
