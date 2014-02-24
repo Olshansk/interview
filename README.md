@@ -37,6 +37,7 @@
 ### Fun
 * [Fight Code Game](http://fightcodegame.com/)
 * [Questions I Want to Ask, but Can't](http://dandreamsofcoding.com/2013/03/01/questions-i-want-to-ask-but-cant/) – a bunch of fun, slightly harder, interview questions
+* Fermi questions [[Coding Horror](http://www.codinghorror.com/blog/2006/06/how-good-an-estimator-are-you.html)] [[fermiquestions.com](http://www.fermiquestions.com/)]
 
 ### Similar
 * [https://github.com/blakeembrey/code-problems](https://github.com/blakeembrey/code-problems)
