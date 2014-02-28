@@ -1,4 +1,4 @@
-The uber-short version (if you somehow ended up here the day before your interview): read [this](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) and [these](https://courses.csail.mit.edu/iap/interview/materials.php). Do all of the problems with pen and paper. If you've got some time left, read [these tips](https://www.interviewcake.com/tips-and-tricks). Sleep well the night before the interview, drink some coffee in the morning, go in there humble and try to have fun.
+The uber-short version (if you somehow ended up here the day before your interview): read [this](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) and [these](https://courses.csail.mit.edu/iap/interview/materials.php). Go through all the problems, preferably with pen and paper. If you've got some time left, read [these tips](https://www.interviewcake.com/tips-and-tricks). Sleep well the night before the interview, drink some coffee in the morning, go in there humble and try to have fun.
 
 ## Reading
 
