@@ -13,7 +13,7 @@ The uber-short version (if you somehow ended up here the day before your intervi
 ### Books
 * [The Algorithm Design Manual](http://www.amazon.com/dp/1848000693) [[pdf](https://www.google.co.uk/search?q=skiena+algorithm+design+manual+pdf)]
 * [CLRS](http://www.amazon.com/dp/0262033844) [[pdf](https://www.google.co.uk/search?q=cormen+pdf)]
-* [more](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+* more: [1](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) [2](http://it-ebooks.info/) [3](http://www.freeprogrammingbook.com/)
 
 ### Resume
 * [The Google Resume](http://www.amazon.com/dp/0470927623) [[pdf](https://www.google.co.uk/search?q=the+google+resume+pdf)]
