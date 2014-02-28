@@ -34,7 +34,7 @@
 * [grokit.ca](http://www.grokit.ca/spc/computer_science_review/)
 * [maxnoy](http://maxnoy.com/interviews.html)
 * [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
-* [Interview Cake](https://www.interviewcake.com/)
+* [Interview Cake](https://www.interviewcake.com/) *don't miss their excellent [tips](https://www.interviewcake.com/tips-and-tricks)*
 
 #### Apps
 * [Coderust](http://www.coderust.com/) *I was quite skeptical of this but it's worth every single penny*
