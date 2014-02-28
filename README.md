@@ -24,29 +24,35 @@
 
 ## Practice
 
-### Interview practice
+### Coding practice
+* [Hacker Rank](https://www.hackerrank.com/)
+* [Project Euler](https://projecteuler.net/)
+
+### Interview questions
 * [Hacking a Google Interview (MIT)](https://courses.csail.mit.edu/iap/interview/materials.php)
 * [Cracking The Coding Interview](http://www.amazon.com/dp/098478280X) [[pdf](https://www.google.co.uk/search?q=cracking+the+coding+interview+pdf)]
 * [grokit.ca](http://www.grokit.ca/spc/computer_science_review/)
 * [maxnoy](http://maxnoy.com/interviews.html)
 * [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+* [Interview Cake](https://www.interviewcake.com/)
+
+#### Apps
+* [Coderust](http://www.coderust.com/) *I was quite skeptical of this but it's worth every single penny*
 
 #### Evaluation (Fermi) questions
 * [How Good an Estimator Are You?](http://www.codinghorror.com/blog/2006/06/how-good-an-estimator-are-you.html)
 * [fermiquestions.com](http://www.fermiquestions.com/)
 
-### Coding practice
-* [Hacker Rank](https://www.hackerrank.com/)
-* [Project Euler](https://projecteuler.net/)
-* [Interview Cake](https://www.interviewcake.com/)
+#### Newsletters
 * [Coding for interviews](http://codingforinterviews.com/)
 
 ### Fun
 * [Fight Code Game](http://fightcodegame.com/)
 * [Questions I Want to Ask, but Can't](http://dandreamsofcoding.com/2013/03/01/questions-i-want-to-ask-but-cant/)
 
-## Similar (or not) repos
-* [https://github.com/blakeembrey/code-problems](https://github.com/blakeembrey/code-problems)
-* [https://github.com/ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis)
-* [https://github.com/ruby-jokes/job_interview](https://github.com/ruby-jokes/job_interview)
-* [https://github.com/alex/what-happens-when](https://github.com/alex/what-happens-when)
+## Other repos
+* [blakeembrey/code-problems](https://github.com/blakeembrey/code-problems)
+* [davidhampgonsalves/interview-resources](https://github.com/davidhampgonsalves/interview-resources)
+* [ChiperSoft/InterviewThis](https://github.com/ChiperSoft/InterviewThis)
+* [ruby-jokes/job_interview](https://github.com/ruby-jokes/job_interview)
+* [alex/what-happens-when](https://github.com/alex/what-happens-when)
