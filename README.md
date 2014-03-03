@@ -20,7 +20,7 @@ The uber-short version (if you somehow ended up here the day before your intervi
 
 #### Interview preparation
 * [The Google Resume](http://www.amazon.com/dp/0470927623) [[pdf](https://www.google.com/search?q=the+google+resume+pdf)]
-* [Programming Interviews Exposed](http://www.amazon.com/dp/047012167X) [pdf](https://www.google.com/search?q=programming+interviews+exposed+it-ebooks)
+* [Programming Interviews Exposed](http://www.amazon.com/dp/047012167X) [[pdf](https://www.google.com/search?q=programming+interviews+exposed+it-ebooks)]
 * [Cracking The Coding Interview](http://www.amazon.com/dp/098478280X) [[pdf](https://www.google.com/search?q=cracking+the+coding+interview+pdf)]
 
 ### Videos
