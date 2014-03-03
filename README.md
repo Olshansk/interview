@@ -4,7 +4,7 @@ The uber-short version (if you somehow ended up here the day before your intervi
 
 ### Articles
 * [Get That Job at Google](http://steve-yegge.blogspot.co.uk/2008/03/get-that-job-at-google.html)
-* [Get That Job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920)
+* [Get That Job at Facebook](https://www.facebook.com/notes/10150964382448920)
 * [Preparing for a technical interview with programming contests](https://www.facebook.com/notes/10151298476823920)
 * [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e)
 * [ABC: Always be Coding](https://medium.com/tech-talk/d5f8051afce2)
