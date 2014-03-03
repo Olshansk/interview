@@ -5,24 +5,28 @@ The uber-short version (if you somehow ended up here the day before your intervi
 ### Articles
 * [Get That Job at Google](http://steve-yegge.blogspot.co.uk/2008/03/get-that-job-at-google.html)
 * [Get That Job at Facebook](https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920)
-* [Preparing for a technical interview with programming contests](https://www.facebook.com/notes/facebook-engineering/preparing-for-a-technical-interview-with-programming-contests/10151298476823920)
+* [Preparing for a technical interview with programming contests](https://www.facebook.com/notes/10151298476823920)
 * [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e)
 * [ABC: Always be Coding](https://medium.com/tech-talk/d5f8051afce2)
 * [How To Prepare For Interviews](http://dandreamsofcoding.com/2012/11/25/how-to-prepare-for-technical-interviews/)
 
 ### Books
-* [The Algorithm Design Manual](http://www.amazon.com/dp/1848000693) [[pdf](https://www.google.co.uk/search?q=skiena+algorithm+design+manual+pdf)]
-* [CLRS](http://www.amazon.com/dp/0262033844) [[pdf](https://www.google.co.uk/search?q=cormen+pdf)]
+#### Algorithms
+* [The Algorithm Design Manual](http://www.amazon.com/dp/1848000693) [[pdf](https://www.google.com/search?q=skiena+algorithm+design+manual+pdf)]
+* [CLRS](http://www.amazon.com/dp/0262033844) [[pdf](https://www.google.com/search?q=cormen+pdf)]
+* [Programming Pearls](http://www.amazon.com/dp/8177588583) [pdf](https://www.google.com/search?q=programming+pearls+pdf)
 * more: [1](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) [2](http://it-ebooks.info/) [3](http://www.freeprogrammingbook.com/)
 
-### Resume
-* [The Google Resume](http://www.amazon.com/dp/0470927623) [[pdf](https://www.google.co.uk/search?q=the+google+resume+pdf)]
-* [Ten Tips for a (Slightly) Less Awful Resume](http://steve-yegge.blogspot.co.uk/2007/09/ten-tips-for-slightly-less-awful-resume.html)
+#### Interview preparation
+* [The Google Resume](http://www.amazon.com/dp/0470927623) [[pdf](https://www.google.com/search?q=the+google+resume+pdf)]
+* [Ten Tips for a (Slightly) Less Awful Resume](http://steve-yegge.blogspot.co./2007/09/ten-tips-for-slightly-less-awful-resume.html)
+* [Programming Interviews Exposed](http://www.amazon.com/dp/047012167X) [pdf](https://www.google.com/search?q=programming+interviews+exposed+it-ebooks)
+* [Cracking The Coding Interview](http://www.amazon.com/dp/098478280X) [[pdf](https://www.google.com/search?q=cracking+the+coding+interview+pdf)]
 
 ### Videos
-* Cracking the Coding Interview [1](http://www.youtube.com/watch?v=rEJzOhC5ZtQ) [2](http://www.youtube.com/watch?v=aClxtDcdpsQ) [3](http://www.youtube.com/watch?v=2cf9xo1S134)
-* Tips from Google Recruiters [technical](http://www.youtube.com/watch?v=qc1owf2-220) [non-technical](http://www.youtube.com/watch?v=DINxNbBOEoI)
-* [Another one from Google](http://www.youtube.com/watch?v=oWbUtlUhwa8)
+* Cracking the Coding Interview [1](http://youtu.be/rEJzOhC5ZtQ) [2](http://youtu.be/aClxtDcdpsQ) [3](http://youtu.be/2cf9xo1S134)
+* Tips from Google Recruiters [technical](http://youtu.be/qc1owf2-220) [non-technical](http://youtu.be/DINxNbBOEoI)
+* [Another one from Google](http://youtu.be/oWbUtlUhwa8)
 
 ## Practice
 
@@ -32,11 +36,10 @@ The uber-short version (if you somehow ended up here the day before your intervi
 
 ### Interview questions
 * [Hacking a Google Interview (MIT)](https://courses.csail.mit.edu/iap/interview/materials.php)
-* [Cracking The Coding Interview](http://www.amazon.com/dp/098478280X) [[pdf](https://www.google.co.uk/search?q=cracking+the+coding+interview+pdf)]
 * [grokit.ca](http://www.grokit.ca/spc/computer_science_review/)
 * [maxnoy](http://maxnoy.com/interviews.html)
 * [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
-* [Interview Cake](https://www.interviewcake.com/) *don't miss their excellent [tips](https://www.interviewcake.com/tips-and-tricks)*
+* [Interview Cake](https://www.interviewcake.com/) *don't miss their excellent [tips page](https://www.interviewcake.com/tips-and-tricks)*
 
 #### Apps
 * [Coderust](http://www.coderust.com/) *I was quite skeptical of this but it's worth every single penny*
