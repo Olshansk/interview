@@ -33,6 +33,7 @@ The uber-short version (if you somehow ended up here the day before your intervi
 ### Coding practice
 * [Hacker Rank](https://www.hackerrank.com/)
 * [Project Euler](https://projecteuler.net/)
+* [Google Code Jam - Practice questions](https://code.google.com/codejam/contests.html)
 
 ### Interview questions
 * [Hacking a Google Interview (MIT)](https://courses.csail.mit.edu/iap/interview/materials.php)
