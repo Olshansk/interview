@@ -4,7 +4,7 @@ The uber-short version (if you somehow ended up here the day before your intervi
 
 ## Reading
 
-### Articles
+### Articles and guides
 * [Get That Job at Google](http://steve-yegge.blogspot.co.uk/2008/03/get-that-job-at-google.html)
 * [Get That Job at Facebook](https://www.facebook.com/notes/10150964382448920)
 * [Preparing for a technical interview with programming contests](https://www.facebook.com/notes/10151298476823920)
@@ -12,6 +12,7 @@ The uber-short version (if you somehow ended up here the day before your intervi
 * [ABC: Always be Coding](https://medium.com/tech-talk/d5f8051afce2)
 * [How To Prepare For Interviews](http://dandreamsofcoding.com/2012/11/25/how-to-prepare-for-technical-interviews/)
 * [Ten Tips for a (Slightly) Less Awful Resume](http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html)
+* [Here's How to Prepare for Tech Interviews](http://redd.it/1jov24)
 
 ### Books
 #### Algorithms
