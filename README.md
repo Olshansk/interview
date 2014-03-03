@@ -9,6 +9,7 @@ The uber-short version (if you somehow ended up here the day before your intervi
 * [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e)
 * [ABC: Always be Coding](https://medium.com/tech-talk/d5f8051afce2)
 * [How To Prepare For Interviews](http://dandreamsofcoding.com/2012/11/25/how-to-prepare-for-technical-interviews/)
+* [Ten Tips for a (Slightly) Less Awful Resume](http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html)
 
 ### Books
 #### Algorithms
@@ -19,7 +20,6 @@ The uber-short version (if you somehow ended up here the day before your intervi
 
 #### Interview preparation
 * [The Google Resume](http://www.amazon.com/dp/0470927623) [[pdf](https://www.google.com/search?q=the+google+resume+pdf)]
-* [Ten Tips for a (Slightly) Less Awful Resume](http://steve-yegge.blogspot.co./2007/09/ten-tips-for-slightly-less-awful-resume.html)
 * [Programming Interviews Exposed](http://www.amazon.com/dp/047012167X) [pdf](https://www.google.com/search?q=programming+interviews+exposed+it-ebooks)
 * [Cracking The Coding Interview](http://www.amazon.com/dp/098478280X) [[pdf](https://www.google.com/search?q=cracking+the+coding+interview+pdf)]
 
