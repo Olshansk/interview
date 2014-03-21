@@ -16,9 +16,9 @@ The uber-short version (if you somehow ended up here the day before your intervi
 
 ### Books
 #### Algorithms
-* [The Algorithm Design Manual](http://www.amazon.com/dp/1848000693) [[pdf](https://www.google.com/search?q=skiena+algorithm+design+manual+pdf)]
+* [The Algorithm Design Manual](http://www.amazon.com/dp/1848000693) [[pdf](https://www.google.com/search?q=skiena+algorithm+design+manual+pdf)] [[site](http://www.algorist.com/)]
+* [Programming Pearls](http://www.amazon.com/dp/8177588583) [[site + full text](http://www.cs.bell-labs.com/cm/cs/pearls/)]
 * [CLRS](http://www.amazon.com/dp/0262033844) [[pdf](https://www.google.com/search?q=cormen+pdf)]
-* [Programming Pearls](http://www.amazon.com/dp/8177588583) [[pdf](https://www.google.com/search?q=programming+pearls+pdf)]
 * more: [1](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md) [2](http://it-ebooks.info/) [3](http://www.freeprogrammingbook.com/)
 
 #### Interview preparation
