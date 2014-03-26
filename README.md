@@ -1,6 +1,8 @@
 The uber-short version (if you somehow ended up here the day before your interview): read [this](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) and [these](https://courses.csail.mit.edu/iap/interview/materials.php). Go through all the problems, preferably with pen and paper. If you've got some time left, read [these tips](https://www.interviewcake.com/tips-and-tricks). Sleep well the night before the interview, drink some coffee in the morning, go in humble and try to have fun.
 
-**UPDATE**: I added my training track, see andreis.md. Rather than just having a long list of the *good* resources for interiew preparation I think it's a good idea to also have personalized tracks that are much easier to follow. If you want to contribute send a pull request and I'd be happy to add it (name the file <yourgithubusername>.md).
+**Important Update** (26 March 2014): In CodeRust the 2nd solution to "Queue using Stacks" is [wrong](http://ideone.com/dINS88). CodeRust still has a great selection of problems, just be careful.
+
+Also, after I'm done with my interview[s] I'll restructure the format of this list of resources and select the ones I found most effective.
 
 ## Reading
 
