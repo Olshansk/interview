@@ -37,6 +37,7 @@ Also, after I'm done with my interview[s] I'll restructure the format of this li
 
 ### Coding practice
 * [Hacker Rank](https://www.hackerrank.com/)
+* Talent Buddy [[web](http://www.talentbuddy.co/)]
 * [Project Euler](https://projecteuler.net/)
 * [Google Code Jam - Practice questions](https://code.google.com/codejam/contests.html)
 
@@ -49,6 +50,7 @@ Also, after I'm done with my interview[s] I'll restructure the format of this li
 
 #### Apps
 * [Coderust](http://www.coderust.com/) *I was quite skeptical of this but it's worth every single penny*
+* TalentBuddy companion app [iTunes](https://itunes.apple.com/us/app/talentbuddy/id845593905)
 
 #### Evaluation (Fermi) questions
 * [How Good an Estimator Are You?](http://www.codinghorror.com/blog/2006/06/how-good-an-estimator-are-you.html)
