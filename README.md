@@ -1,6 +1,6 @@
 The uber-short version (if you somehow ended up here the day before your interview): read [this](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) and [these](https://courses.csail.mit.edu/iap/interview/materials.php). Go through all the problems, preferably with pen and paper. If you've got some time left, read [these tips](https://www.interviewcake.com/tips-and-tricks). Sleep well the night before the interview, drink some coffee in the morning, go in humble and try to have fun.
 
-**Important Update** (26 March 2014): In CodeRust the 2nd solution to "Queue using Stacks" is [wrong](http://ideone.com/dINS88). CodeRust still has a great selection of problems, just be careful.
+**Update** (26 March 2014): In CodeRust the 2nd solution to "Queue using Stacks" is [wrong](http://ideone.com/dINS88). CodeRust still has a great selection of problems, just be careful.
 
 Also, after I'm done with my interview[s] I'll restructure the format of this list of resources and select the ones I found most effective.
 
@@ -15,6 +15,7 @@ Also, after I'm done with my interview[s] I'll restructure the format of this li
 * [How To Prepare For Interviews](http://dandreamsofcoding.com/2012/11/25/how-to-prepare-for-technical-interviews/)
 * [Ten Tips for a (Slightly) Less Awful Resume](http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html)
 * [Here's How to Prepare for Tech Interviews](http://redd.it/1jov24)
+* NYTimes, "How to Get a Job at Google" [[1](http://mobile.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html)] [[2](http://mobile.nytimes.com/2014/04/20/opinion/sunday/friedman-how-to-get-a-job-at-google-part-2.html)]
 
 ### Books
 #### Algorithms
