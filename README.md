@@ -48,6 +48,7 @@ Also, after I'm done with my interview[s] I'll restructure the format of this li
 * [maxnoy](http://maxnoy.com/interviews.html)
 * [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 * [Interview Cake](https://www.interviewcake.com/) *don't miss their excellent [tips page](https://www.interviewcake.com/tips-and-tricks)*
+* [Prismo-Skills](http://prismoskills.appspot.com/freshers.jsp) *Really good for dynamic programming problems*
 
 #### Apps
 * [Coderust](http://www.coderust.com/) *I was quite skeptical of this but it's worth every single penny*
