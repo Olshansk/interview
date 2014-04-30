@@ -1,3 +1,5 @@
+[![Gitter chat](https://badges.gitter.im/andreis/interview.png)](https://gitter.im/andreis/interview)
+
 The uber-short version (if you somehow ended up here the day before your interview): read [this](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) and [these](https://courses.csail.mit.edu/iap/interview/materials.php). Go through all the problems, preferably with pen and paper. If you've got some time left, read [these tips](https://www.interviewcake.com/tips-and-tricks). Sleep well the night before the interview, drink some coffee in the morning, go in humble and try to have fun.
 
 **Update** (26 March 2014): In CodeRust the 2nd solution to "Queue using Stacks" is [wrong](http://ideone.com/dINS88). CodeRust still has a great selection of problems, just be careful.
