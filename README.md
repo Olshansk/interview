@@ -12,6 +12,7 @@
 * [Maths](#maths)
 * [Meta](#meta)
 * [Questions](#questions)
+* [Systems Design](#systemsdesign)
 * [Unix](#unix)
 * [Videos](#videos)
 * [other repos](#similargithubrepos)
@@ -147,6 +148,8 @@ Recommended: MIT - **Mathematics for Computer Science** [[Youtube][m_mit_yt]] [[
 
 ## Meta
 
+**Quora**
+
 * [How does an interviewer define the difficulty level of a question?](http://www.quora.com/Programming-Interviews/How-does-an-interviewer-define-the-difficulty-level-of-a-question)
 
 
@@ -170,7 +173,16 @@ Recommended: MIT – **Hacking a Google Interview** [[web][q_hgi]]
 [q_ps]: http://prismoskills.appspot.com/freshers.jsp
 
 
+## Systems Design
+
+**Quora**
+
+* [How should I prepare system design questions for Google/Facebook interview?](http://www.quora.com/Job-Interviews/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
+
+
 ## Unix
+
+**Quora**
 
 * [What is the difference between a process and a thread?](http://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
 
