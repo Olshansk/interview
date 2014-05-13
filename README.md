@@ -12,10 +12,10 @@
 * [Maths](#maths)
 * [Meta](#meta)
 * [Questions](#questions)
-* [Systems Design](#systemsdesign)
+* [Systems Design](#systems-design)
 * [Unix](#unix)
 * [Videos](#videos)
-* [other repos](#similargithubrepos)
+* [other repos](#similar-github-repos)
 
 
 ## Articles
