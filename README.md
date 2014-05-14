@@ -111,6 +111,7 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 * **Elements of Programming Interviews** [[Amazon][g_epibook]] [[web][g_epiweb]] 
 
 **Quora**:
+* [How to prepare for my Google/Facebook interview if I have 6 months left?](http://www.quora.com/Career-Advice/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google)
 * [How should I prepare for my Google interview if I have 1 month left?](https://www.quora.com/Google-Interview-Questions/How-should-I-prepare-for-my-Google-interview-if-I-have-1-month-left)
 * [What is the best advice for an engineering internship interview at Google or Facebook?](https://www.quora.com/What-is-the-best-advice-for-an-engineering-internship-interview-at-Google-or-Facebook)
 * [What graph topics should I study in order to be adequately prepared for a Google Software Engineer interview?](https://www.quora.com/Google-Interview-Questions/What-graph-topics-should-I-study-in-order-to-be-adequately-prepared-for-a-Google-Software-Engineer-interview)
