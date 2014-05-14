@@ -108,7 +108,7 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 * **Coding for Interviews** [[web][g_cfi]]
 * **Here's How to Prepare for Tech Interviews** (reddit) [[web][g_rd]]
 * **Programming Interviews Exposed** [[Amazon][g_pie_amzn]] [[pdf][g_pie_pdf]]
-* **Elements of Programming Interviews** [[web][g_epiweb]] [[Amazon][g_epibook]]
+* **Elements of Programming Interviews** [[Amazon][g_epibook]] [[web][g_epiweb]] 
 
 **Quora**:
 * [How should I prepare for my Google interview if I have 1 month left?](https://www.quora.com/Google-Interview-Questions/How-should-I-prepare-for-my-Google-interview-if-I-have-1-month-left)
