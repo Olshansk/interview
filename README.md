@@ -78,6 +78,7 @@ Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
 * **Google Code Jam practice problems** [[web][c_gcj]]
 * **Top Coder tutorials** [[web][c_tct]]
 * **Infoarena training path** (RO) [[web][c_itp]]
+* **LeetCode Online Judge** [[web][c-lc]]
 * more – **Free Programming Resources** [[web][c_fpr]]
 * more - **Web Resources and Tutorials That Don't Suck** [[web][c_p]]
 
@@ -94,6 +95,7 @@ Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
 [c_tb]: http://www.talentbuddy.co/
 [c_tb_app]: https://itunes.apple.com/us/app/talentbuddy/id845593905
 [c_tct]: http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static
+[c-lc]: http://oj.leetcode.com/
 
 
 ## Guides
@@ -106,6 +108,7 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 * **Coding for Interviews** [[web][g_cfi]]
 * **Here's How to Prepare for Tech Interviews** (reddit) [[web][g_rd]]
 * **Programming Interviews Exposed** [[Amazon][g_pie_amzn]] [[pdf][g_pie_pdf]]
+* **Elements of Programming Interviews** [[web][g_epiweb]] [[Amazon][g_epibook]]
 
 **Quora**:
 * [How should I prepare for my Google interview if I have 1 month left?](https://www.quora.com/Google-Interview-Questions/How-should-I-prepare-for-my-Google-interview-if-I-have-1-month-left)
@@ -121,6 +124,8 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 [g_rd]: http://redd.it/1jov24
 [g_tgr_amzn]: http://www.amazon.com/dp/0470927623
 [g_tgr_pdf]: https://www.google.com/search?q=the+google+resume+pdf
+[g_epiweb]: https://code.google.com/p/elements-of-programming-interviews/
+[g_epibook]: http://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836
 
 
 ## Language-specific
