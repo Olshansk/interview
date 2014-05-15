@@ -106,7 +106,7 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 
 * **CareerCup** [[web][g_cc]]
 * **Coding for Interviews** [[web][g_cfi]]
-* **Here's How to Prepare for Tech Interviews** (reddit) [[web][g_rd]]
+* **Here's How to Prepare for Tech Interviews** [[reddit][g_rd]]
 * **Programming Interviews Exposed** [[Amazon][g_pie_amzn]] [[pdf][g_pie_pdf]]
 * **Elements of Programming Interviews** [[Amazon][g_epibook]] [[web][g_epiweb]] 
 
