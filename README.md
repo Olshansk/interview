@@ -10,7 +10,7 @@
     * [JavaScript](#javascript)
     * [Python](#python)
 * [Maths](#maths)
-* [Meta](#meta)
+* [Misc](#misc)
 * [Questions](#questions)
 * [Systems Design](#systems-design)
 * [Unix](#unix)
@@ -30,14 +30,14 @@ Recommended: Steve Yegge – **Get That Job at Google** [[web][a_sy]]
 * Andrew Rothbart – **Preparing for a technical interview with programming contests** [[web][a_ar]]
 * Steve Yegge – **Ten Tips for a (Slightly) Less Awful Resume** [[web][a_sy2]]
 
-[a_cb]: https://www.facebook.com/notes/10150964382448920
-[a_ar]: https://www.facebook.com/notes/10151298476823920
-[a_db]: https://medium.com/tech-talk/d5f8051afce2
+[a_cb]:  https://www.facebook.com/notes/10150964382448920
+[a_ar]:  https://www.facebook.com/notes/10151298476823920
+[a_db]:  https://medium.com/tech-talk/d5f8051afce2
 [a_db2]: https://medium.com/this-happened-to-me/8f381aa6bd5e
 [a_db3]: http://dandreamsofcoding.com/2012/11/25/how-to-prepare-for-technical-interviews/
-[a_sy]: http://steve-yegge.blogspot.co.uk/2008/03/get-that-job-at-google.html
+[a_sy]:  http://steve-yegge.blogspot.co.uk/2008/03/get-that-job-at-google.html
 [a_sy2]: http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html
-[a_tf]: http://mobile.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html
+[a_tf]:  http://mobile.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html
 [a_tf2]: http://mobile.nytimes.com/2014/04/20/opinion/sunday/friedman-how-to-get-a-job-at-google-part-2.html
 
 
@@ -109,17 +109,13 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 * **Here's How to Prepare for Tech Interviews** [[reddit][g_rd]]
 * **Programming Interviews Exposed** [[Amazon][g_pie_amzn]] [[pdf][g_pie_pdf]]
 * **Elements of Programming Interviews** [[Amazon][g_epibook]] [[web][g_epiweb]] 
-
-**Quora**:
-* [How to prepare for my Google/Facebook interview if I have 6 months left?](http://www.quora.com/Career-Advice/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google)
-* [How should I prepare for my Google interview if I have 1 month left?](https://www.quora.com/Google-Interview-Questions/How-should-I-prepare-for-my-Google-interview-if-I-have-1-month-left)
-* [What is the best advice for an engineering internship interview at Google or Facebook?](https://www.quora.com/What-is-the-best-advice-for-an-engineering-internship-interview-at-Google-or-Facebook)
-* [What graph topics should I study in order to be adequately prepared for a Google Software Engineer interview?](https://www.quora.com/Google-Interview-Questions/What-graph-topics-should-I-study-in-order-to-be-adequately-prepared-for-a-Google-Software-Engineer-interview)
+* Mina Azib – **Resources for Preparing for the Google Interview** [[web][g_ma]]
 
 [g_cc]: http://www.careercup.com/
 [g_cci_amzn]: http://www.amazon.com/dp/098478280X
 [g_cci_pdf]: https://www.google.com/search?q=cracking+the+coding+interview+pdf
 [g_cfi]: http://codingforinterviews.com/
+[g_ma]:  http://itsallonesandzeroes.blogspot.de/2013/07/prepping-for-google-interview.html
 [g_pie_amzn]: http://www.amazon.com/dp/047012167X
 [g_pie_pdf]: https://www.google.com/search?q=programming+interviews+exposed+it-ebooks
 [g_rd]: http://redd.it/1jov24
@@ -127,6 +123,12 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 [g_tgr_pdf]: https://www.google.com/search?q=the+google+resume+pdf
 [g_epiweb]: https://code.google.com/p/elements-of-programming-interviews/
 [g_epibook]: http://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836
+
+**Quora**:
+* [How to prepare for my Google/Facebook interview if I have 6 months left?](http://www.quora.com/Career-Advice/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google)
+* [How should I prepare for my Google interview if I have 1 month left?](https://www.quora.com/Google-Interview-Questions/How-should-I-prepare-for-my-Google-interview-if-I-have-1-month-left)
+* [What is the best advice for an engineering internship interview at Google or Facebook?](https://www.quora.com/What-is-the-best-advice-for-an-engineering-internship-interview-at-Google-or-Facebook)
+* [What graph topics should I study in order to be adequately prepared for a Google Software Engineer interview?](https://www.quora.com/Google-Interview-Questions/What-graph-topics-should-I-study-in-order-to-be-adequately-prepared-for-a-Google-Software-Engineer-interview)
 
 
 ## Language-specific
@@ -152,7 +154,11 @@ Recommended: MIT - **Mathematics for Computer Science** [[Youtube][m_mit_yt]] [[
 [m_mit_yt]: https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B
 
 
-## Meta
+## Misc
+
+* Aaron Swartz – **How I Hire Programmers** [[web](http://www.aaronsw.com/weblog/hiring)]
+* Joel Spolsky – **The Guerrilla Guide to Interviewing (v.3)** [[web](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)]
+* Steve Yegge – **Done, and Gets Things Smart** [[web](http://steve-yegge.blogspot.co.uk/2008/06/done-and-gets-things-smart.html)]
 
 **Quora**
 
