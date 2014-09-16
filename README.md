@@ -29,6 +29,7 @@ Recommended: Steve Yegge – **Get That Job at Google** [[web][a_sy]]
 * Thomas L. Friedman – **How to Get a Job at Google** [[part 1][a_tf]] [[part 2][a_tf2]]
 * Andrew Rothbart – **Preparing for a technical interview with programming contests** [[web][a_ar]]
 * Steve Yegge – **Ten Tips for a (Slightly) Less Awful Resume** [[web][a_sy2]]
+* Quora - **What are the ways to utilize 6 months to build skill-set to get hired at Facebook or Google?** [[web][a_sy3]]
 
 [a_cb]:  https://www.facebook.com/notes/10150964382448920
 [a_ar]:  https://www.facebook.com/notes/10151298476823920
@@ -39,6 +40,7 @@ Recommended: Steve Yegge – **Get That Job at Google** [[web][a_sy]]
 [a_sy2]: http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html
 [a_tf]:  http://mobile.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html
 [a_tf2]: http://mobile.nytimes.com/2014/04/20/opinion/sunday/friedman-how-to-get-a-job-at-google-part-2.html
+[a_sy3]: http://www.quora.com/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-hired-at-Facebook-or-Google
 
 
 ## Algorithms
