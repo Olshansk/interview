@@ -206,6 +206,7 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 * Gayle McDowell – **Cracking the Coding Interview** [[Youtube][v_cci]]
 * Gayle McDowell - **Cracking the Coding Interview (examples)** [[one][v_cci2]] [[two][v_cci3]]
 * Hangouts on Air: **Google Recruiters Share Interview Tips** [[technical][v_gt]] [[non-technical][v_gnt]]
+* Ladies Storm Hackathons: **Interview Prep Round 1: Strings, Arrays, Linked Lists** [[technical][v_lsh1]] 
 
 [v_cci]: http://youtu.be/rEJzOhC5ZtQ
 [v_cci2]: http://youtu.be/aClxtDcdpsQ
@@ -213,6 +214,7 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 [v_ccs]: http://youtu.be/oWbUtlUhwa8
 [v_gt]: http://youtu.be/qc1owf2-220
 [v_gnt]: http://youtu.be/DINxNbBOEoI
+[v_lsh1]: http://youtu.be/fIpliB-ton8
 
 ## Similar Github repos
 
