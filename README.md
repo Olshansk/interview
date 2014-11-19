@@ -218,7 +218,8 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 
 ## Similar Github repos
 
-* [schmatz/cs-interview-guide](https://github.com/schmatz/cs-interview-guide)
+* [schmatz/cs-interview-guide](https://github.com/schmatz/cs-interview-guide) **(NEW)**
+* [SITZ/JobPuzzles](https://github.com/SITZ/JobPuzzles) **(NEW)**
 * [interview-resources](https://github.com/davidhampgonsalves/interview-resources)
 * [code-problems](https://github.com/blakeembrey/code-problems)
 * [InterviewThis](https://github.com/ChiperSoft/InterviewThis)
