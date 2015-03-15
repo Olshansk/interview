@@ -47,7 +47,7 @@ Recommended: Steven Skiena – **The Algorithm Design Manual** [[Amazon][b_tadm_
 
 * Jon Bentley – **Programming Pearls** [[Amazon][b_pp_amzn]] [[web (full text)][b_pp_web]]
 * Cormen, Leiserson, Rivest, Stein – **Introduction to Algorithms** [[Amazon][b_clrs_amzn]] [[pdf][b_clrs_pdf]]
-* more – **Free Programming Books** (*giant* collection) [[Github][b_fbp]]
+* more – **Free Programming Books** (*giant* collection) [[GitHub][b_fbp]]
 * more – **IT eBooks** [[web][b_ite]]
 * more – **Free Programming Books** [[web][b_fpbcom]]
 
@@ -216,7 +216,7 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 [v_gnt]: http://youtu.be/DINxNbBOEoI
 [v_lsh1]: http://youtu.be/fIpliB-ton8
 
-## Similar Github repos
+## Similar GitHub repos
 
 * [schmatz/cs-interview-guide](https://github.com/schmatz/cs-interview-guide) **(NEW)**
 * [SITZ/JobPuzzles](https://github.com/SITZ/JobPuzzles) **(NEW)**
