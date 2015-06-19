@@ -231,7 +231,7 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 * Gayle McDowell - **Cracking the Coding Interview (examples)** [[one][v_cci2]] [[two][v_cci3]]
 * Hangouts on Air: **Google Recruiters Share Interview Tips** [[technical][v_gt]] [[non-technical][v_gnt]]
 * Ladies Storm Hackathons: **Interview Prep Round 1: Strings, Arrays, Linked Lists** [[technical][v_lsh1]] 
-* Moishe Lettvin - **What I Learned Doing 250 Interviews at Google** [[Youtube][v_google_interview]]
+* Moishe Lettvin - **What I Learned Doing 250 Interviews at Google ** [[Youtube][v_google_interview]]
 * **'How to Get a Job At the Big 4** - A Student's Guide' by Sean Lee [[Youtube][v_big_4]] 
 
 [v_cci]: http://youtu.be/rEJzOhC5ZtQ
