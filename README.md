@@ -165,19 +165,21 @@ Recommended: MIT - **Mathematics for Computer Science** [[Youtube][m_mit_yt]] [[
 * [How does an interviewer define the difficulty level of a question?](http://www.quora.com/Programming-Interviews/How-does-an-interviewer-define-the-difficulty-level-of-a-question)
 
 ## Open source and contribution
-How to start the journey with open source and contribution and why I should do it.
-Many companies are asking about open source during interview, also it's good to have profile on github or bitbucket.
-Also it's great opportunity to develop your skills 
+How to start the journey with open source, contribution and why I should do it.
 
-Why I should do it ? [[web][o_why_I_should]]
-14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star [[web][o_14_ways]]
+Interviewers often ask about open source contribution, also it's great opportunity to develop your skills.
+
+* **Why I should do it ?** [[web][o_why_I_should]]
+* **14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star [[web][o_14_ways]]
+
 
 Here are some links to issue trackers of popular projects:
-Spring Framework (JIRA) [[web][o_spring]]
-Apache Hadoop (JIRA) [[web][o_hadoop]]
-Apache Elasticsearch (JIRA) [[web][o_elastic]]
-MongoDB (JIRA) [[web][o_mongo]]
-MySQL (Oracle Corporation as developer) [[web][o_mysql]]
+
+* **Spring Framework (JIRA)** [[web][o_spring]]
+* **Apache Hadoop (JIRA)** [[web][o_hadoop]]
+* **Apache Elasticsearch (JIRA)** [[web][o_elastic]]
+* **MongoDB (JIRA)** [[web][o_mongo]]
+* **MySQL (Oracle Corporation as developer)** [[web][o_mysql]]
 
 [o_why_I_should]: http://www.makeuseof.com/tag/contribute-opensource-projects/
 [o_14_ways]: http://blog.smartbear.com/programming/14-ways-to-contribute-to-open-source-without-being-a-programming-genius-or-a-rock-star/
