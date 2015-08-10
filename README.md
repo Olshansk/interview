@@ -59,7 +59,7 @@ Please support the authors by buying the books.
 [b_fpbcom]: http://www.freeprogrammingbook.com/
 [b_ite]: http://it-ebooks.info/
 [b_pp_amzn]: http://www.amazon.com/dp/8177588583
-[b_pp_web]: http://www.cs.bell-labs.com/cm/cs/pearls/
+[b_pp_web]: http://www.wou.edu/~jcm/Spring-P-2015/Programming%20Pearls%20(2nd%20Ed)%20Bentley.pdf
 [b_tadm_amzn]: http://www.amazon.com/dp/1848000693
 [b_tadm_pdf]: https://www.google.com/search?q=skiena+algorithm+design+manual+pdf
 [b_tadm_web]: http://www.algorist.com/
