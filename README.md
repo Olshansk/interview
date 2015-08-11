@@ -79,7 +79,6 @@ Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
 * **Top Coder tutorials** [[web][c_tct]]
 * **Infoarena training path** (RO) [[web][c_itp]]
 * **LeetCode Online Judge** [[web][c_lc]]
-* **LeetCode Online Judge** [[web][c_lc]]
 * **Code Wars** [[web][c_cw]]
 * **Code Kata** [[web][c_ck]]
 * **Pramp** [[web][c_pr]]
@@ -105,7 +104,7 @@ Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
 [c_cw]: http://www.codewars.com/
 [c_ck]: http://codekata.com/
 [c_pr]: https://www.pramp.com/
-[c_cp]: https://www.cryptopals.com/
+[c_cp]: http://cryptopals.com/
 [c_crpb]: http://crackprogramming.blogspot.com/
 
 ## Guides
