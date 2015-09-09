@@ -78,7 +78,12 @@ Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
 * **Google Code Jam practice problems** [[web][c_gcj]]
 * **Top Coder tutorials** [[web][c_tct]]
 * **Infoarena training path** (RO) [[web][c_itp]]
-* **LeetCode Online Judge** [[web][c-lc]]
+* **LeetCode Online Judge** [[web][c_lc]]
+* **Code Wars** [[web][c_cw]]
+* **Code Kata** [[web][c_ck]]
+* **Pramp** [[web][c_pr]]
+* **the matasano crypto challenges** [[web][c_cp]]
+* **Cracking Programming** [[web][c_crpb]]
 * more – **Free Programming Resources** [[web][c_fpr]]
 * more - **Web Resources and Tutorials That Don't Suck** [[web][c_p]]
 
@@ -95,8 +100,12 @@ Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
 [c_tb]: http://www.talentbuddy.co/
 [c_tb_app]: https://itunes.apple.com/us/app/talentbuddy/id845593905
 [c_tct]: http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static
-[c-lc]: http://oj.leetcode.com/
-
+[c_lc]: http://oj.leetcode.com/
+[c_cw]: http://www.codewars.com/
+[c_ck]: http://codekata.com/
+[c_pr]: https://www.pramp.com/
+[c_cp]: http://cryptopals.com/
+[c_crpb]: http://crackprogramming.blogspot.com/
 
 ## Guides
 
@@ -225,3 +234,4 @@ Recommended: **Candidate Coaching Session: Tech Interviewing** [[Youtube][v_ccs]
 * [InterviewThis](https://github.com/ChiperSoft/InterviewThis)
 * [job_interview](https://github.com/ruby-jokes/job_interview)
 * [what-happens-when](https://github.com/alex/what-happens-when)
+* [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
