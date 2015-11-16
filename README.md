@@ -79,7 +79,7 @@ Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
 * **Top Coder tutorials** [[web][c_tct]]
 * **Infoarena training path** (RO) [[web][c_itp]]
 * **LeetCode Online Judge** [[web][c-lc]]
-* **GeeksForGeeks** [[web][c_gfg]]
+* **GeeksforGeeks** [[web][c_gfg]]
 * more – **Free Programming Resources** [[web][c_fpr]]
 * more - **Web Resources and Tutorials That Don't Suck** [[web][c_p]]
 
