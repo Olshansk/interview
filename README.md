@@ -68,7 +68,7 @@ Please support the authors by buying the books.
 ## Coding
 
 Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
-
+* **InterviewBit** [[web][c_hr]]
 * **Coderust** (great selection of problems) [[$10 app][c_cr]]
 * **Hacker Rank** [[web][c_hr]]
 * **Interview Cake** [[web][c_ic]]
