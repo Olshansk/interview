@@ -68,7 +68,7 @@ Please support the authors by buying the books.
 ## Coding
 
 Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
-
+* **InterviewBit** [[web][c_ib]]
 * **Coderust** (great selection of problems) [[$10 app][c_cr]]
 * **Hacker Rank** [[web][c_hr]]
 * **Interview Cake** [[web][c_ic]]
@@ -88,6 +88,7 @@ Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
 [c_he]: http://www.hackerearth.com/
 [c_hit]: http://www.hiredintech.com/
 [c_hr]: https://www.hackerrank.com/
+[c_ib]: https://www.interviewbit.com/
 [c_ic]: https://www.interviewcake.com/
 [c_itp]: http://www.infoarena.ro/training-path
 [c_p]: http://pineapple.io/
