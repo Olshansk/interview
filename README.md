@@ -112,7 +112,7 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 * Mina Azib – **Resources for Preparing for the Google Interview** [[web][g_ma]]
 
 [g_cc]: http://careercup.com
-[g_cci_amzn]: http://amazon.com/dp/098478280X
+[g_cci_amzn]: http://amazon.com/dp/0984782850
 [g_cci_pdf]: https://google.com/#q=cracking+the+coding+interview+pdf
 [g_cfi]: http://codingforinterviews.com
 [g_ma]:  http://itsallonesandzeroes.blogspot.de/2013/07/prepping-for-google-interview.html
