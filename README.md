@@ -30,11 +30,11 @@ Recommended: Steve Yegge – **Get That Job at Google** [[web][a_sy]]
 * Andrew Rothbart – **Preparing for a technical interview with programming contests** [[web][a_ar]]
 * Steve Yegge – **Ten Tips for a (Slightly) Less Awful Resume** [[web][a_sy2]]
 
-[a_cb]:  https://www.facebook.com/notes/10150964382448920
-[a_ar]:  https://www.facebook.com/notes/10151298476823920
+[a_cb]:  https://facebook.com/notes/10150964382448920
+[a_ar]:  https://facebook.com/notes/10151298476823920
 [a_db]:  https://medium.com/tech-talk/d5f8051afce2
 [a_db2]: https://medium.com/this-happened-to-me/8f381aa6bd5e
-[a_db3]: http://dandreamsofcoding.com/2012/11/25/how-to-prepare-for-technical-interviews/
+[a_db3]: http://dandreamsofcoding.com/2012/11/25/how-to-prepare-for-technical-interviews
 [a_sy]:  http://steve-yegge.blogspot.co.uk/2008/03/get-that-job-at-google.html
 [a_sy2]: http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html
 [a_tf]:  http://mobile.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html
@@ -53,16 +53,16 @@ Recommended: Steven Skiena – **The Algorithm Design Manual** [[Amazon][b_tadm_
 
 Please support the authors by buying the books.
 
-[b_clrs_amzn]: http://www.amazon.com/dp/0262033844
-[b_clrs_pdf]: https://www.google.com/search?q=cormen+pdf
+[b_clrs_amzn]: http://amazon.com/dp/0262033844
+[b_clrs_pdf]: https://google.com/#q=cormen+pdf
 [b_fbp]: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
-[b_fpbcom]: http://www.freeprogrammingbook.com/
-[b_ite]: http://it-ebooks.info/
-[b_pp_amzn]: http://www.amazon.com/dp/8177588583
-[b_pp_web]: http://www.wou.edu/~jcm/Spring-P-2015/Programming%20Pearls%20(2nd%20Ed)%20Bentley.pdf
-[b_tadm_amzn]: http://www.amazon.com/dp/1848000693
-[b_tadm_pdf]: https://www.google.com/search?q=skiena+algorithm+design+manual+pdf
-[b_tadm_web]: http://www.algorist.com/
+[b_fpbcom]: http://freeprogrammingbook.com
+[b_ite]: http://it-ebooks.info
+[b_pp_amzn]: http://amazon.com/dp/8177588583
+[b_pp_web]: http://wou.edu/~jcm/Spring-P-2015/Programming%20Pearls%20(2nd%20Ed)%20Bentley.pdf
+[b_tadm_amzn]: http://amazon.com/dp/1848000693
+[b_tadm_pdf]: https://google.com/#q=skiena+algorithm+design+manual+pdf
+[b_tadm_web]: http://algorist.com
 
 
 ## Coding
@@ -82,20 +82,20 @@ Recommended: **Talentbuddy** [[web][c_tb]] [[free app][c_tb_app]]
 * more – **Free Programming Resources** [[web][c_fpr]]
 * more - **Web Resources and Tutorials That Don't Suck** [[web][c_p]]
 
-[c_cr]: http://coderust.com/
-[c_fpr]: http://resrc.io/
+[c_cr]: http://coderust.com
+[c_fpr]: http://resrc.io
 [c_gcj]: https://code.google.com/codejam/contests.html
-[c_he]: http://www.hackerearth.com/
-[c_hit]: http://www.hiredintech.com/
-[c_hr]: https://www.hackerrank.com/
-[c_ic]: https://www.interviewcake.com/
-[c_itp]: http://www.infoarena.ro/training-path
-[c_p]: http://pineapple.io/
-[c_pe]: https://projecteuler.net/
-[c_tb]: http://www.talentbuddy.co/
+[c_he]: http://hackerearth.com
+[c_hit]: http://hiredintech.com
+[c_hr]: https://hackerrank.com
+[c_ic]: https://interviewcake.com
+[c_itp]: http://infoarena.ro/training-path
+[c_p]: http://pineapple.io
+[c_pe]: https://projecteuler.net
+[c_tb]: http://talentbuddy.co
 [c_tb_app]: https://itunes.apple.com/us/app/talentbuddy/id845593905
-[c_tct]: http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static
-[c-lc]: http://oj.leetcode.com/
+[c_tct]: http://topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static
+[c-lc]: http://oj.leetcode.com
 
 
 ## Guides
@@ -111,24 +111,24 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 * **Elements of Programming Interviews** [[Amazon][g_epibook]] [[web][g_epiweb]] 
 * Mina Azib – **Resources for Preparing for the Google Interview** [[web][g_ma]]
 
-[g_cc]: http://www.careercup.com/
-[g_cci_amzn]: http://www.amazon.com/dp/098478280X
-[g_cci_pdf]: https://www.google.com/search?q=cracking+the+coding+interview+pdf
-[g_cfi]: http://codingforinterviews.com/
+[g_cc]: http://careercup.com
+[g_cci_amzn]: http://amazon.com/dp/098478280X
+[g_cci_pdf]: https://google.com/#q=cracking+the+coding+interview+pdf
+[g_cfi]: http://codingforinterviews.com
 [g_ma]:  http://itsallonesandzeroes.blogspot.de/2013/07/prepping-for-google-interview.html
-[g_pie_amzn]: http://www.amazon.com/dp/047012167X
-[g_pie_pdf]: https://www.google.com/search?q=programming+interviews+exposed+it-ebooks
+[g_pie_amzn]: http://amazon.com/dp/047012167X
+[g_pie_pdf]: https://google.com/#q=programming+interviews+exposed+it-ebooks
 [g_rd]: http://redd.it/1jov24
-[g_tgr_amzn]: http://www.amazon.com/dp/0470927623
-[g_tgr_pdf]: https://www.google.com/search?q=the+google+resume+pdf
-[g_epiweb]: https://code.google.com/p/elements-of-programming-interviews/
-[g_epibook]: http://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836
+[g_tgr_amzn]: http://amazon.com/dp/0470927623
+[g_tgr_pdf]: https://google.com/#q=the+google+resume+pdf
+[g_epiweb]: https://code.google.com/p/elements-of-programming-interviews
+[g_epibook]: http://amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836
 
 **Quora**:
-* [How to prepare for my Google/Facebook interview if I have 6 months left?](http://www.quora.com/Career-Advice/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google)
-* [How should I prepare for my Google interview if I have 1 month left?](https://www.quora.com/Google-Interview-Questions/How-should-I-prepare-for-my-Google-interview-if-I-have-1-month-left)
-* [What is the best advice for an engineering internship interview at Google or Facebook?](https://www.quora.com/What-is-the-best-advice-for-an-engineering-internship-interview-at-Google-or-Facebook)
-* [What graph topics should I study in order to be adequately prepared for a Google Software Engineer interview?](https://www.quora.com/Google-Interview-Questions/What-graph-topics-should-I-study-in-order-to-be-adequately-prepared-for-a-Google-Software-Engineer-interview)
+* [How to prepare for my Google/Facebook interview if I have 6 months left?](http://quora.com/Career-Advice/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google)
+* [How should I prepare for my Google interview if I have 1 month left?](https://quora.com/Google-Interview-Questions/How-should-I-prepare-for-my-Google-interview-if-I-have-1-month-left)
+* [What is the best advice for an engineering internship interview at Google or Facebook?](https://quora.com/What-is-the-best-advice-for-an-engineering-internship-interview-at-Google-or-Facebook)
+* [What graph topics should I study in order to be adequately prepared for a Google Software Engineer interview?](https://quora.com/Google-Interview-Questions/What-graph-topics-should-I-study-in-order-to-be-adequately-prepared-for-a-Google-Software-Engineer-interview)
 
 
 ## Language-specific
@@ -139,8 +139,8 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 
 ### Python
 
-* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
-* [The Insider's Guide to Python Interviewing](http://www.toptal.com/python#hiring-guide)
+* [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest)
+* [The Insider's Guide to Python Interviewing](http://toptal.com/python#hiring-guide)
 
 ## Maths
 
@@ -148,21 +148,21 @@ Recommended: MIT - **Mathematics for Computer Science** [[Youtube][m_mit_yt]] [[
 
 * Graham, Knuth, Patashnik – **Concrete Mathematics: A Foundation for Computer Science** [[Amazon][m_cm_amzn]] [[pdf][m_cm_pdf]]
 
-[m_cm_amzn]: http://www.amazon.com/dp/0201558025/
-[m_cm_pdf]: https://www.google.co.uk/search?q=knuth+concrete+mathematics+pdf
-[m_mit_web]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/
-[m_mit_yt]: https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B
+[m_cm_amzn]: http://amazon.com/dp/0201558025
+[m_cm_pdf]: https://google.com/#q=knuth+concrete+mathematics+pdf
+[m_mit_web]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010
+[m_mit_yt]: https://youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B
 
 
 ## Misc
 
-* Aaron Swartz – **How I Hire Programmers** [[web](http://www.aaronsw.com/weblog/hiring)]
-* Joel Spolsky – **The Guerrilla Guide to Interviewing (v.3)** [[web](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)]
+* Aaron Swartz – **How I Hire Programmers** [[web](http://aaronsw.com/weblog/hiring)]
+* Joel Spolsky – **The Guerrilla Guide to Interviewing (v.3)** [[web](http://joelonsoftware.com/articles/GuerrillaInterviewing3.html)]
 * Steve Yegge – **Done, and Gets Things Smart** [[web](http://steve-yegge.blogspot.co.uk/2008/06/done-and-gets-things-smart.html)]
 
 **Quora**
 
-* [How does an interviewer define the difficulty level of a question?](http://www.quora.com/Programming-Interviews/How-does-an-interviewer-define-the-difficulty-level-of-a-question)
+* [How does an interviewer define the difficulty level of a question?](http://quora.com/Programming-Interviews/How-does-an-interviewer-define-the-difficulty-level-of-a-question)
 
 
 ## Questions
@@ -176,11 +176,11 @@ Recommended: MIT – **Hacking a Google Interview** [[web][q_hgi]]
 * Daniel Blumenthal – **Questions I Want to Ask, but Can't** [[web][q_db]]
 * Steve Yegge – **The Five Essential Phone-Screen Questions** [[web][q_feps]]
 
-[q_db]: http://dandreamsofcoding.com/2013/03/01/questions-i-want-to-ask-but-cant/
-[q_csp]: http://www.grokit.ca/spc/computer_science_review/
+[q_db]: http://dandreamsofcoding.com/2013/03/01/questions-i-want-to-ask-but-cant
+[q_csp]: http://grokit.ca/spc/computer_science_review
 [q_feps]: https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
 [q_hgi]: https://courses.csail.mit.edu/iap/interview/materials.php
-[q_ja]: http://blog.codinghorror.com/how-good-an-estimator-are-you/
+[q_ja]: http://blog.codinghorror.com/how-good-an-estimator-are-you
 [q_piq]: http://maxnoy.com/interviews.html
 [q_ps]: http://prismoskills.appspot.com/freshers.jsp
 
@@ -189,14 +189,14 @@ Recommended: MIT – **Hacking a Google Interview** [[web][q_hgi]]
 
 **Quora**
 
-* [How should I prepare system design questions for Google/Facebook interview?](http://www.quora.com/Job-Interviews/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
+* [How should I prepare system design questions for Google/Facebook interview?](http://quora.com/Job-Interviews/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
 
 
 ## Unix
 
 **Quora**
 
-* [What is the difference between a process and a thread?](http://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
+* [What is the difference between a process and a thread?](http://quora.com/What-is-the-difference-between-a-process-and-a-thread)
 
 
 ## Videos
