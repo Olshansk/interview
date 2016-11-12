@@ -177,7 +177,7 @@ Recommended: MIT – **Hacking a Google Interview** [[web][q_hgi]]
 * Steve Yegge – **The Five Essential Phone-Screen Questions** [[web][q_feps]]
 
 [q_db]: http://dandreamsofcoding.com/2013/03/01/questions-i-want-to-ask-but-cant/
-[q_csp]: http://www.grokit.ca/spc/computer_science_review/
+[q_csp]: http://www.grokit.ca/tag/Computer%20Science%20Interview%20Question/
 [q_feps]: https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
 [q_hgi]: https://courses.csail.mit.edu/iap/interview/materials.php
 [q_ja]: http://blog.codinghorror.com/how-good-an-estimator-are-you/
