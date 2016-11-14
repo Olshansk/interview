@@ -142,6 +142,10 @@ Recommended (interview): Gayle McDowell – **Cracking the Coding Interview** [[
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 * [The Insider's Guide to Python Interviewing](http://www.toptal.com/python#hiring-guide)
 
+### Java / Android
+
+* [Not another Interviews’ article](https://medium.com/code-procedure-and-rants/not-another-android-interviews-article-5b478671793b)
+
 ## Maths
 
 Recommended: MIT - **Mathematics for Computer Science** [[Youtube][m_mit_yt]] [[web][m_mit_web]]
