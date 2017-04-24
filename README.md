@@ -48,6 +48,7 @@
 * Gayle McDowell – [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X)
 * Giguere, Mongan, Kindler – [Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
 * Aziz, Lee, Prakash – [Elements of Programming Interviews](https://www.amazon.com/dp/1479274836/) [[code](https://code.google.com/archive/p/elements-of-programming-interviews/)]
+* Narashima Karumanchi – [Coding Interview Questions](https://www.amazon.com/Coding-Interview-Questions-Narasimha-Karumanchi/dp/1475293534)
 
 ### Misc
 
@@ -69,6 +70,9 @@
 * [interviewing.io](https://interviewing.io/) *"Practice interviewing with engineers from top companies"*
 * [Coding for Interviews](http://codingforinterviews.com/)
 * [Career Cup](https://www.careercup.com/)
+* [Pramp – Practice coding interviews for free](https://www.pramp.com/)
+* [TestDome – Practice interview questions for free](https://www.testdome.com/)
+* [FreeCodeCamp – Learn to code and help nonprofits](https://www.freecodecamp.com/)
 
 ### Videos
 
@@ -108,6 +112,7 @@
 * [Coderust 2.0](https://www.educative.io/collection/5642554087309312/5679846214598656?authorName=Coderust)
 * [HackerEarth](https://www.hackerearth.com/)
 * [HiredInTech](https://www.hiredintech.com/)
+* [Learneroo – Algorithms](https://www.learneroo.com/subjects/8)
 
 ### Guides
 
@@ -116,6 +121,10 @@
 * Steven & Felix Halim – [Increasing the Lower Bound of Programming Contests](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=118) (UVA Online Judge)
 
 ## Languages and technologies
+
+### C#
+
+* [aalhour/c-sharp-algorithms](https://github.com/aalhour/c-sharp-algorithms)
 
 ### JavaScript
 
@@ -152,6 +161,7 @@
 
 ### Operating systems
 
+* UCB CS162 Operating Systems [class](https://cs162.eecs.berkeley.edu/) [videos](https://www.youtube.com/playlist?list=PL89180A0A94A9BCBF)
 * [What is the difference between a process and a thread?](http://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
 
 ### System design
@@ -165,6 +175,7 @@
 * [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 * [schmatz/cs-interview-guide](https://github.com/schmatz/cs-interview-guide)
+* [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 * [SITZ/JobPuzzles](https://github.com/SITZ/JobPuzzles)
 * [davidhampgonsalves/interview-resources](https://github.com/davidhampgonsalves/interview-resources)
 * [blakeembrey/code-problems](https://github.com/blakeembrey/code-problems)
