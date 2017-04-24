@@ -14,7 +14,9 @@
 	* [Coding Practice](#coding-practice)
 	* [Guides](#guides-1)
 * [Languages and technologies](#languages-and-technologies)
+	* [ASP.NET](#aspnet)
 	* [JavaScript](#javascript)
+	* [Node](#node)
 	* [Python](#python)
 	* [React](#react)
 * [Misc](#misc-1)
@@ -78,12 +80,14 @@
 
 ### Videos
 
-* [How to: Work at Google – Candidate Coaching Session for Technical Interviewing](https://www.youtube.com/watch?v=oWbUtlUhwa8)
-* Gayle McDowell – [Cracking the Coding Interview](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
-* Gayle McDowell - [Cracking the Coding Interview (examples)](https://www.youtube.com/watch?v=aClxtDcdpsQ)
-* [Google Recruiters Share Technical Interview Tips](https://www.youtube.com/watch?v=qc1owf2-220)
-* [Google Recruiters Share Non-Technical Interview Tips](https://www.youtube.com/watch?v=DINxNbBOEoI)
-* Ladies Storm Hackathons – [Interview Prep Round 1: Strings, Arrays, Linked Lists](https://www.youtube.com/watch?v=fIpliB-ton8)
+* [How to: Work at Google – Candidate Coaching Session for Technical Interviewing [45:45]](https://www.youtube.com/watch?v=oWbUtlUhwa8)
+* Gayle McDowell – [Cracking the Coding Interview [1:14:24]](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
+* Gayle McDowell - [Cracking the Coding Interview (examples) [9:05]](https://www.youtube.com/watch?v=aClxtDcdpsQ)
+* [Google Recruiters Share Technical Interview Tips [31:06]](https://www.youtube.com/watch?v=qc1owf2-220)
+* [Google Recruiters Share Non-Technical Interview Tips [28:23]](https://www.youtube.com/watch?v=DINxNbBOEoI)
+* Moishe Lettvin – [What I Learned Doing 250 Interviews at Google [1:00:24]](https://www.youtube.com/watch?v=r8RxkpUvxK0)
+* Sean Lee – [How to Get a Job at the Big 4 [42:34]](https://www.youtube.com/watch?v=YJZCUhxNCv8)
+* Ladies Storm Hackathons – [Interview Prep Round 1: Strings, Arrays, Linked Lists [1:12:39]](https://www.youtube.com/watch?v=fIpliB-ton8)
 
 
 ## Algorithms
@@ -144,6 +148,10 @@
 * [Superhero.js](http://superherojs.com/)
 * [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 
+### Node
+
+* [Node.js Best Practices and Tips](https://www.toptal.com/nodejs/tips-and-practices)
+
 ### Python
 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
@@ -186,6 +194,8 @@
 ### System design
 
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+* Raph Levien – [Rope Science](https://github.com/google/xi-editor/blob/master/doc/rope_science/intro.md)
+* [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [How should I prepare system design questions for Google/Facebook interview?](http://www.quora.com/Job-Interviews/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
 * Jeff Atwood – [How Good an Estimator Are You?](http://blog.codinghorror.com/how-good-an-estimator-are-you/)
 
