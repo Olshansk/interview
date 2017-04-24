@@ -132,6 +132,10 @@
 * [Infoarena training path](http://www.infoarena.ro/training-path) (RO)
 * Steven & Felix Halim – [Increasing the Lower Bound of Programming Contests](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=118) (UVA Online Judge)
 
+### Misc
+
+* [Top 10 Algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+
 ## Languages and technologies
 
 ### ASP.NET
@@ -142,6 +146,11 @@
 ### C#
 
 * [aalhour/c-sharp-algorithms](https://github.com/aalhour/c-sharp-algorithms)
+
+### Go
+
+* [Go by Example](https://gobyexample.com/)
+* [Go Challenge](http://golang-challenge.org/)
 
 ### JavaScript
 
@@ -157,6 +166,7 @@
 ### Python
 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
+* [quantifiedcode/python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns)
 * [The Insider's Guide to Python Interviewing](http://www.toptal.com/python#hiring-guide)
 
 ### React
