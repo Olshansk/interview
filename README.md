@@ -71,6 +71,7 @@
 ### Sites
 
 * [interviewing.io](https://interviewing.io/) *"Practice interviewing with engineers from top companies"*
+* [Refdash](https://refdash.com/) *"Interview with an experienced engineer"*
 * [Coding for Interviews](http://codingforinterviews.com/)
 * [InterviewBit](https://www.interviewbit.com/)
 * [Career Cup](https://www.careercup.com/)
