@@ -21,6 +21,7 @@
 	* [React](#react)
 * [Misc](#misc-1)
 	* [Crypto](#crypto)
+	* [Funny](#funny)
 	* [Maths](#maths)
 	* [Networking](#networking)
 	* [Operating Systems](#operating-systems)
@@ -174,6 +175,12 @@
 * [Praetorian Tech Challenges](https://www.praetorian.com/challenges)
 * [Cryptography Services Challenges](http://cryptoservices.github.io/challenges/)
 
+### Funny
+
+* Aphyr – [Reversing the technical interview](https://aphyr.com/posts/340-reversing-the-technical-interview)
+* Aphyr – [Hexing the technical interview](https://aphyr.com/posts/341-hexing-the-technical-interview)
+* Aphyr – [Typing the technical interview](https://aphyr.com/posts/342-typing-the-technical-interview)
+
 ### Maths
 
 * MIT - [Mathematics for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
@@ -199,6 +206,7 @@
 * [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [How should I prepare system design questions for Google/Facebook interview?](http://www.quora.com/Job-Interviews/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
 * Jeff Atwood – [How Good an Estimator Are You?](http://blog.codinghorror.com/how-good-an-estimator-are-you/)
+* [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
 
 ## Similar repos
 
