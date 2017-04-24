@@ -69,6 +69,7 @@
 
 * [interviewing.io](https://interviewing.io/) *"Practice interviewing with engineers from top companies"*
 * [Coding for Interviews](http://codingforinterviews.com/)
+* [InterviewBit](https://www.interviewbit.com/)
 * [Career Cup](https://www.careercup.com/)
 * [Pramp – Practice coding interviews for free](https://www.pramp.com/)
 * [TestDome – Practice interview questions for free](https://www.testdome.com/)
@@ -111,6 +112,7 @@
 * [Interview Cake](https://www.interviewcake.com/) [[review](https://www.quora.com/How-helpful-was-the-paid-program-from-Interview-Cake-in-your-interview-preparation)]
 * [Coderust 2.0](https://www.educative.io/collection/5642554087309312/5679846214598656?authorName=Coderust)
 * [HackerEarth](https://www.hackerearth.com/)
+* [CodeChef](https://www.codechef.com/)
 * [HiredInTech](https://www.hiredintech.com/)
 * [Learneroo – Algorithms](https://www.learneroo.com/subjects/8)
 
