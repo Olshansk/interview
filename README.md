@@ -128,6 +128,11 @@
 
 ## Languages and technologies
 
+### ASP.NET
+
+* Shailendra Chauhan – [ASP.NET MVC Interview Questions & Answers](https://www.codeproject.com/Articles/556995/ASP-NET-MVC-interview-questions-with-answers)
+* [Top 10 ASP.NET MVC Interview Questions](http://www.codeproject.com/Articles/653746/Top-ASP-NET-MVC-Interview-Questions)
+
 ### C#
 
 * [aalhour/c-sharp-algorithms](https://github.com/aalhour/c-sharp-algorithms)
