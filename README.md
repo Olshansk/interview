@@ -60,6 +60,7 @@
 * [HackerEarth](https://www.hackerearth.com/)
 * [CodeChef](https://www.codechef.com/)
 * [Codewars](https://www.codewars.com/)
+* [CodeFights](https://codefights.com/)
 * [CodeKata](http://codekata.com/)
 
 ### Guides
@@ -73,6 +74,7 @@
 ### Misc
 
 * [Top 10 Algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+* [50+ Interviews with Facebook, Twitter, Amazon & others](http://blog.robertelder.org/50-interviews-with-facebook-twitter-amazon-others/)
 
 ## Guides
 
