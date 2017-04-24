@@ -18,6 +18,7 @@
 	* [Python](#python)
 	* [React](#react)
 * [Misc](#misc-1)
+	* [Crypto](#crypto)
 	* [Maths](#maths)
 	* [Networking](#networking)
 	* [Operating Systems](#operating-systems)
@@ -114,6 +115,8 @@
 * [HackerEarth](https://www.hackerearth.com/)
 * [CodeChef](https://www.codechef.com/)
 * [HiredInTech](https://www.hiredintech.com/)
+* [Codewars](https://www.codewars.com/)
+* [CodeKata](http://codekata.com/)
 
 ### Guides
 
@@ -148,6 +151,14 @@
 * [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 
 ## Misc
+
+### Crypto
+
+* Coursera, Stanford, Dan Boneh – [Cryptography I](https://www.coursera.org/learn/crypto)
+* Boneh, Shoup – [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_3.pdf)
+* [The Cryptopals Crypto Challenges](https://cryptopals.com/)
+* [Praetorian Tech Challenges](https://www.praetorian.com/challenges)
+* [Cryptography Services Challenges](http://cryptoservices.github.io/challenges/)
 
 ### Maths
 
