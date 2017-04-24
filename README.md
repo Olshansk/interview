@@ -103,7 +103,7 @@
 * [Coderust 2.0 ($$)](https://www.educative.io/collection/5642554087309312/5679846214598656?authorName=Coderust)
 * [Interview Cake ($$$)](https://www.interviewcake.com/) [[review](https://www.quora.com/How-helpful-was-the-paid-program-from-Interview-Cake-in-your-interview-preparation)]
 * [How to Ace the Software Engineering Interview ($$)](https://interviewsteps.com/products/how-to-ace-the-software-engineering-interview)
-
+* [Grokking the System Design Interview ($$)](https://www.educative.io/collection/5668639101419520/5649050225344512)
 
 ### Misc
 
@@ -211,6 +211,7 @@
 
 ### Networking
 
+* Joyent – [TCP Puzzlers](https://www.joyent.com/blog/tcp-puzzlers)
 * Andrew Tanenbaum – [Computer Networks](https://www.amazon.com/Computer-Networks-Tanenbaum-International-Economy/dp/9332518742)
 * Kurose, Ross – [Computer Networking: A Top-Down Approach](https://www.amazon.com/Computer-Networking-Top-Down-Approach-6th/dp/0132856204)
 * W. Richard Stevens – [TCP/IP Illustrated, Vol. 1: The Protocols](https://www.amazon.com/TCP-Illustrated-Vol-Addison-Wesley-Professional/dp/0201633469)
@@ -219,6 +220,7 @@
 ### Operating systems
 
 * UCB CS162 Operating Systems [class](https://cs162.eecs.berkeley.edu/) [videos](https://www.youtube.com/playlist?list=PL89180A0A94A9BCBF)
+* [The Eudyptula Challenge](http://eudyptula-challenge.org/)
 * [What is the difference between a process and a thread?](http://www.quora.com/What-is-the-difference-between-a-process-and-a-thread)
 
 ### System design
@@ -228,7 +230,7 @@
 * [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [How should I prepare system design questions for Google/Facebook interview?](http://www.quora.com/Job-Interviews/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
 * Jeff Atwood – [How Good an Estimator Are You?](http://blog.codinghorror.com/how-good-an-estimator-are-you/)
-* [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+* [0xAX/linux-insides](https://github.com/0xAX/linux-insides)
 
 ## Similar repos
 
