@@ -114,10 +114,11 @@
 * [HackerEarth](https://www.hackerearth.com/)
 * [CodeChef](https://www.codechef.com/)
 * [HiredInTech](https://www.hiredintech.com/)
-* [Learneroo – Algorithms](https://www.learneroo.com/subjects/8)
 
 ### Guides
 
+* [GeeksForGeeks – A CS portal for geeks](http://www.geeksforgeeks.org/)
+* [Learneroo – Algorithms](https://www.learneroo.com/subjects/8)
 * [Top Coder tutorials](http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static)
 * [Infoarena training path](http://www.infoarena.ro/training-path) (RO)
 * Steven & Felix Halim – [Increasing the Lower Bound of Programming Contests](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=118) (UVA Online Judge)
