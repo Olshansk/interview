@@ -74,7 +74,7 @@
 ### Misc
 
 * [Top 10 Algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
-* [50+ Interviews with Facebook, Twitter, Amazon & others](http://blog.robertelder.org/50-interviews-with-facebook-twitter-amazon-others/)
+# [Hard interview questions that have a short recursive solution](https://www.quora.com/What-are-some-of-the-hardest-programming-questions-asked-during-an-interview-from-Google-Facebook-Microsoft-Amazon-Quora-Linkedin-Apple-Yahoo-etc-that-can-be-coded-in-a-few-lines-with-a-recursive-solution)
 
 ## Guides
 
@@ -90,6 +90,8 @@
 * Andrew Rothbart – [Preparing for a technical interview with programming contests](https://www.facebook.com/notes/10151298476823920)
 * Mina Azib – [Resources for Preparing for the Google Interview](http://itsallonesandzeroes.blogspot.ro/2013/07/prepping-for-google-interview.html)
 * [u/RunninADorito](https://www.reddit.com/user/RunninADorito) – [How to Prepare for Tech Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
+* Bill Sourour – [How To Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685)
+* Ammon Bartram – [How To Pass a Programming Interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
 
 ### Books
 
@@ -114,7 +116,13 @@
 * Steve Yegge – [Done, and Gets Things Smart](http://steve-yegge.blogspot.co.uk/2008/06/done-and-gets-things-smart.html)
 * Steve Yegge – [Five Essential Phone Interview Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 * Daniel Blumenthal – [Questions I Want to Ask, but Can't](http://dandreamsofcoding.com/2013/03/01/questions-i-want-to-ask-but-cant/)
+* [50+ Interviews with Facebook, Twitter, Amazon & others](http://blog.robertelder.org/50-interviews-with-facebook-twitter-amazon-others/)
+* [Technical Interviews Make Me Cry](http://blog.pamelafox.org/2013/09/technical-interviews-make-me-cry.html)
+* [How I hustled my way to a developer job at Khan Academy](http://stephjang.com/blog/khan-academy-job/)
 * [How does an interviewer define the difficulty level of a question?](http://www.quora.com/Programming-Interviews/How-does-an-interviewer-define-the-difficulty-level-of-a-question)
+* Phil Calçado – [On Asking Job Candidates to Code](http://philcalcado.com/2016/03/15/on_asking_job_candidates_to_code.html)
+* Moxie Marlinspike – [Career Advice](https://moxie.org/blog/career-advice/)
+* Dan Luu – [We Only Hire the Trendiest](http://danluu.com/programmer-moneyball/)
 
 ### Mock interviews
 
@@ -239,6 +247,7 @@
 * [MaximAbramchuck/awesome-interview-questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [donnemartin/interactive-coding-challenges](https://github.com/donnemartin/interactive-coding-challenges)
 * [schmatz/cs-interview-guide](https://github.com/schmatz/cs-interview-guide)
+* [mission-peace/interview](https://github.com/mission-peace/interview)
 * [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 * [SITZ/JobPuzzles](https://github.com/SITZ/JobPuzzles)
 * [davidhampgonsalves/interview-resources](https://github.com/davidhampgonsalves/interview-resources)
