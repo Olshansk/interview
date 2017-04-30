@@ -124,6 +124,7 @@
 * Phil Calçado – [On Asking Job Candidates to Code](http://philcalcado.com/2016/03/15/on_asking_job_candidates_to_code.html)
 * Moxie Marlinspike – [Career Advice](https://moxie.org/blog/career-advice/)
 * Dan Luu – [We Only Hire the Trendiest](http://danluu.com/programmer-moneyball/)
+* Reginald Long – [How I went from failing every interview to a job at Amazon](http://reginaldlong.com/how-i-went-from-failing-every-interview-to-a-job-at-amazon/)
 
 ### Mock interviews
 
