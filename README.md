@@ -12,6 +12,7 @@
 	* [Books](#books)
 	* [Courses](#courses)
 	* [Misc](#misc-1)
+	* [Mock interviews](#mock-interviews)
 	* [Q&A](#qa)
 	* [Sites](#sites)
 	* [Videos](#videos)
