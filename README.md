@@ -112,7 +112,7 @@
 
 ### Misc
 
-* Aaron Swartz – [How I Hire Programmers](http://www.aaronsw.com/weblog/hiring)
+* Pramp - [Top 8 Mistakes in Technical Interviews According to Data](https://blog.pramp.com/top-8-mistakes-in-technical-interviews-according-to-data-27d2572bda1f)
 * Joel Spolsky – [The Guerrilla Guide to Interviewing (v.3)](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html)
 * Steve Yegge – [Done, and Gets Things Smart](http://steve-yegge.blogspot.co.uk/2008/06/done-and-gets-things-smart.html)
 * Steve Yegge – [Five Essential Phone Interview Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
@@ -121,6 +121,7 @@
 * [Technical Interviews Make Me Cry](http://blog.pamelafox.org/2013/09/technical-interviews-make-me-cry.html)
 * [How I hustled my way to a developer job at Khan Academy](http://stephjang.com/blog/khan-academy-job/)
 * [How does an interviewer define the difficulty level of a question?](http://www.quora.com/Programming-Interviews/How-does-an-interviewer-define-the-difficulty-level-of-a-question)
+* Aaron Swartz – [How I Hire Programmers](http://www.aaronsw.com/weblog/hiring)
 * Phil Calçado – [On Asking Job Candidates to Code](http://philcalcado.com/2016/03/15/on_asking_job_candidates_to_code.html)
 * Moxie Marlinspike – [Career Advice](https://moxie.org/blog/career-advice/)
 * Dan Luu – [We Only Hire the Trendiest](http://danluu.com/programmer-moneyball/)
