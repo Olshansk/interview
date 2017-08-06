@@ -63,6 +63,7 @@
 * [Codewars](https://www.codewars.com/)
 * [CodeFights](https://codefights.com/)
 * [CodeKata](http://codekata.com/)
+* [Firecode](https://www.firecode.io/)
 
 ### Guides
 
