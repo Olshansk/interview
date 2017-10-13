@@ -54,6 +54,8 @@
 ### Coding practice
 
 * [LeetCode](https://leetcode.com/)
+* [InterviewBit](https://interviewbit.com/)
+* [Spoj](https://spoj.com/)
 * [Codility](https://codility.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [Project Euler](https://projecteuler.net/)
