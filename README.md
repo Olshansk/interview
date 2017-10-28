@@ -166,7 +166,7 @@
 * Moishe Lettvin – [What I Learned Doing 250 Interviews at Google [1:00:24]](https://www.youtube.com/watch?v=r8RxkpUvxK0)
 * Sean Lee – [How to Get a Job at the Big 4 [42:34]](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 * Ladies Storm Hackathons – [Interview Prep Round 1: Strings, Arrays, Linked Lists [1:12:39]](https://www.youtube.com/watch?v=fIpliB-ton8)
-* Randall Koutnik – [Rethinking the Developer Career Path [25:03]] (https://www.youtube.com/watch?v=yIPbE7BssOs)
+* Randall Koutnik – [Rethinking the Developer Career Path [25:03]](https://www.youtube.com/watch?v=yIPbE7BssOs)
 
 
 ## Languages and technologies
