@@ -127,6 +127,11 @@
 * Moxie Marlinspike – [Career Advice](https://moxie.org/blog/career-advice/)
 * Dan Luu – [We Only Hire the Trendiest](http://danluu.com/programmer-moneyball/)
 * Reginald Long – [How I went from failing every interview to a job at Amazon](http://reginaldlong.com/how-i-went-from-failing-every-interview-to-a-job-at-amazon/)
+* Shivan Kaul Sahib - ['Clean your desk' : My Amazon interview experience](http://shivankaul.com/blog/2016/12/07/clean-your-desk-yet-another-amazon-interview-experience.html)
+* Key Values - [A website which helps to find the best team due to your values](https://www.keyvalues.io/)
+* Laurie Voss - [You suck at technical interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews)
+* [Google's "Director of Engineering" Hiring Test](http://www.gwan.com/blog/20160405.html)
+* [IT-Career](http://stereobooster.github.io/it-career)
 
 ### Mock interviews
 
@@ -161,6 +166,7 @@
 * Moishe Lettvin – [What I Learned Doing 250 Interviews at Google [1:00:24]](https://www.youtube.com/watch?v=r8RxkpUvxK0)
 * Sean Lee – [How to Get a Job at the Big 4 [42:34]](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 * Ladies Storm Hackathons – [Interview Prep Round 1: Strings, Arrays, Linked Lists [1:12:39]](https://www.youtube.com/watch?v=fIpliB-ton8)
+* Randall Koutnik – [Rethinking the Developer Career Path [25:03]] (https://www.youtube.com/watch?v=yIPbE7BssOs)
 
 
 ## Languages and technologies
