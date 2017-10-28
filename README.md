@@ -131,7 +131,8 @@
 * Key Values - [A website which helps to find the best team due to your values](https://www.keyvalues.io/)
 * Laurie Voss - [You suck at technical interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews)
 * [Google's "Director of Engineering" Hiring Test](http://www.gwan.com/blog/20160405.html)
-* [IT-Career](http://stereobooster.github.io/it-career)
+* [IT-Career useful links](http://stereobooster.github.io/it-career)
+* [Resume helper](https://resumeworded.com/)
 
 ### Mock interviews
 
