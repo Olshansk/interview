@@ -17,6 +17,7 @@
 	* [Sites](#sites)
 	* [Videos](#videos)
 * [Languages and technologies](#languages-and-technologies)
+	* [Android](#android)
 	* [ASP.NET](#aspnet)
 	* [JavaScript](#javascript)
 	* [Node](#node)
@@ -165,6 +166,10 @@
 
 ## Languages and technologies
 
+### Android
+* [MindorksOpenSource/android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions)
+* [derekargueta/Android-Interview-Questions](https://github.com/derekargueta/Android-Interview-Questions)
+
 ### ASP.NET
 
 * Shailendra Chauhan – [ASP.NET MVC Interview Questions & Answers](https://www.codeproject.com/Articles/556995/ASP-NET-MVC-interview-questions-with-answers)
@@ -223,10 +228,6 @@
 * MIT - [Mathematics for Computer Science](https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B)
 * Graham, Knuth, Patashnik – [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025)
 * Bogart, Drysdale, Stein – [Discrete Math for Computer Science Students](http://www.cse.iitd.ernet.in/~bagchi/courses/discrete-book/fullbook.pdf)
-
-### Android development
-* [android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions)
-* [Android-Interview-Questions](https://github.com/derekargueta/Android-Interview-Questions)
 
 ### Networking
 
