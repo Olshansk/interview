@@ -224,6 +224,10 @@
 * Graham, Knuth, Patashnik – [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025)
 * Bogart, Drysdale, Stein – [Discrete Math for Computer Science Students](http://www.cse.iitd.ernet.in/~bagchi/courses/discrete-book/fullbook.pdf)
 
+### Android development
+* [android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions)
+* [Android-Interview-Questions](https://github.com/derekargueta/Android-Interview-Questions)
+
 ### Networking
 
 * Joyent – [TCP Puzzlers](https://www.joyent.com/blog/tcp-puzzlers)
