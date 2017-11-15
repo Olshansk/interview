@@ -204,7 +204,9 @@
 * [Node.js Best Practices and Tips](https://www.toptal.com/nodejs/tips-and-practices)
 
 ### PHP
+
 * [PHP The Right Way](http://www.phptherightway.com)
+
 ### Python
 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
