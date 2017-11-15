@@ -21,6 +21,7 @@
 	* [ASP.NET](#aspnet)
 	* [JavaScript](#javascript)
 	* [Node](#node)
+	* [PHP](#php)
 	* [Python](#python)
 	* [React](#react)
 * [Other topics](#other-topics)
@@ -201,6 +202,10 @@
 ### Node
 
 * [Node.js Best Practices and Tips](https://www.toptal.com/nodejs/tips-and-practices)
+
+### PHP
+
+* [PHP The Right Way](http://www.phptherightway.com)
 
 ### Python
 
