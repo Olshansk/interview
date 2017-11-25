@@ -198,6 +198,7 @@
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Superhero.js](http://superherojs.com/)
 * [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Learn JavaScript properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
 
 ### Node
 
