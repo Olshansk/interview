@@ -41,6 +41,7 @@
 ### Books
 
 * Steven Skiena – [The Algorithm Design Manual](http://www.algorist.com/)
+* Laakmann Gayle - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 * Udi Manber – [Introduction to Algorithms: A Creative Approach](https://www.amazon.com/Introduction-Algorithms-Creative-Udi-Manber/dp/0201120372)
 * Cormen, Leiserson, Rivest, Stein – [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms)
 * Sedgewick, Wayne – [Algorithms](http://algs4.cs.princeton.edu/home/)
