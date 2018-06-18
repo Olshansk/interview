@@ -17,9 +17,11 @@
 	* [Sites](#sites)
 	* [Videos](#videos)
 * [Languages and technologies](#languages-and-technologies)
+	* [Android](#android)
 	* [ASP.NET](#aspnet)
 	* [JavaScript](#javascript)
 	* [Node](#node)
+	* [PHP](#php)
 	* [Python](#python)
 	* [React](#react)
 * [Other topics](#other-topics)
@@ -129,6 +131,12 @@
 * Moxie Marlinspike – [Career Advice](https://moxie.org/blog/career-advice/)
 * Dan Luu – [We Only Hire the Trendiest](http://danluu.com/programmer-moneyball/)
 * Reginald Long – [How I went from failing every interview to a job at Amazon](http://reginaldlong.com/how-i-went-from-failing-every-interview-to-a-job-at-amazon/)
+* Shivan Kaul Sahib - ['Clean your desk' : My Amazon interview experience](http://shivankaul.com/blog/2016/12/07/clean-your-desk-yet-another-amazon-interview-experience.html)
+* Key Values - [A website which helps to find the best team due to your values](https://www.keyvalues.io/)
+* Laurie Voss - [You suck at technical interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews)
+* [Google's "Director of Engineering" Hiring Test](http://www.gwan.com/blog/20160405.html)
+* [IT-Career useful links](http://stereobooster.github.io/it-career)
+* [Resume helper](https://resumeworded.com/)
 
 ### Mock interviews
 
@@ -150,6 +158,7 @@
 * [InterviewBit](https://www.interviewbit.com/)
 * [Career Cup](https://www.careercup.com/)
 * [HiredInTech](https://www.hiredintech.com/)
+* [Codela](https://www.codela.net/)
 * [TestDome](https://www.testdome.com/)
 * [FreeCodeCamp](https://www.freecodecamp.com/) *"Learn to code and help nonprofits"*
 
@@ -163,9 +172,14 @@
 * Moishe Lettvin – [What I Learned Doing 250 Interviews at Google [1:00:24]](https://www.youtube.com/watch?v=r8RxkpUvxK0)
 * Sean Lee – [How to Get a Job at the Big 4 [42:34]](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 * Ladies Storm Hackathons – [Interview Prep Round 1: Strings, Arrays, Linked Lists [1:12:39]](https://www.youtube.com/watch?v=fIpliB-ton8)
+* Randall Koutnik – [Rethinking the Developer Career Path [25:03]](https://www.youtube.com/watch?v=yIPbE7BssOs)
 
 
 ## Languages and technologies
+
+### Android
+* [MindorksOpenSource/android-interview-questions](https://github.com/MindorksOpenSource/android-interview-questions)
+* [derekargueta/Android-Interview-Questions](https://github.com/derekargueta/Android-Interview-Questions)
 
 ### ASP.NET
 
@@ -191,6 +205,10 @@
 ### Node
 
 * [Node.js Best Practices and Tips](https://www.toptal.com/nodejs/tips-and-practices)
+
+### PHP
+
+* [PHP The Right Way](http://www.phptherightway.com)
 
 ### Python
 
@@ -243,6 +261,7 @@
 ### System design
 
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+* [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 * Raph Levien – [Rope Science](https://github.com/google/xi-editor/blob/master/doc/rope_science/intro.md)
 * [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [How should I prepare system design questions for Google/Facebook interview?](http://www.quora.com/Job-Interviews/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
