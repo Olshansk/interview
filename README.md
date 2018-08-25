@@ -63,7 +63,7 @@
 * [HackerEarth](https://www.hackerearth.com/)
 * [CodeChef](https://www.codechef.com/)
 * [Codewars](https://www.codewars.com/)
-* [CodeFights](https://codefights.com/)
+* [CodeSignal](https://codesignal.com)
 * [CodeKata](http://codekata.com/)
 * [Firecode](https://www.firecode.io/)
 
