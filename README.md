@@ -56,9 +56,11 @@
 ### Coding practice
 
 * [LeetCode](https://leetcode.com/)
+* [InterviewBit](https://www.interviewbit.com/)
 * [Codility](https://codility.com/)
 * [HackerRank](https://www.hackerrank.com/)
 * [Project Euler](https://projecteuler.net/)
+* [Spoj](https://spoj.com/)
 * [Google Code Jam practice problems](https://code.google.com/codejam/contests.html)
 * [HackerEarth](https://www.hackerearth.com/)
 * [CodeChef](https://www.codechef.com/)
@@ -153,7 +155,6 @@
 ### Sites
 
 * [Coding for Interviews](http://codingforinterviews.com/)
-* [InterviewBit](https://www.interviewbit.com/)
 * [Career Cup](https://www.careercup.com/)
 * [HiredInTech](https://www.hiredintech.com/)
 * [Codela](https://www.codela.net/)
