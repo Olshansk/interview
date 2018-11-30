@@ -69,6 +69,7 @@
 * [CodeSignal](https://codesignal.com)
 * [CodeKata](http://codekata.com/)
 * [Firecode](https://www.firecode.io/)
+* [SkillUpper](https://skillupper.com/)
 
 ### Guides
 
