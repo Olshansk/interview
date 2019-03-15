@@ -88,6 +88,7 @@
 ### Articles
 
 * Steve Yegge – [Get That Job at Google](http://steve-yegge.blogspot.co.uk/2008/03/get-that-job-at-google.html)
+* Steve Yegge – [Get That Job at Grab](https://medium.com/@steve.yegge/get-that-job-at-grab-eea6de1d8421)  
 * Steve Yegge – [Ten Tips for a (Slightly) Less Awful Resume](http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html)
 * Carlos Bueno – [Get That Job at Facebook](https://www.facebook.com/notes/10150964382448920)
 * Daniel Blumenthal – [How to Prepare for Technical Interviews](http://dandreamsofcoding.com/2012/11/25/how-to-prepare-for-technical-interviews/)
