@@ -51,6 +51,7 @@
 	* [Original [RU]](https://e-maxx.ru/algo/)
 * [vhf/free-programming-books](https://github.com/vhf/free-programming-books)
 * [it-ebooks.info](http://it-ebooks.info/)
+* S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani -[Algorithms](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
 
 
 ### Coding practice
@@ -161,6 +162,7 @@
 * [Codela](https://www.codela.net/)
 * [TestDome](https://www.testdome.com/)
 * [FreeCodeCamp](https://www.freecodecamp.com/) *"Learn to code and help nonprofits"*
+* [Dynamic Programming Practice Problems](https://people.cs.clemson.edu/~bcdean/dp_practice/)
 
 ### Videos
 
