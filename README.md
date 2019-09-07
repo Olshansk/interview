@@ -51,7 +51,7 @@
 	* [Original [RU]](https://e-maxx.ru/algo/)
 * [vhf/free-programming-books](https://github.com/vhf/free-programming-books)
 * [it-ebooks.info](http://it-ebooks.info/)
-* S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani -[Algorithms](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
+* S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani - [Algorithms](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf)
 
 
 ### Coding practice
