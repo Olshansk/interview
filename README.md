@@ -217,6 +217,8 @@
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/)
 * [quantifiedcode/python-anti-patterns](https://github.com/quantifiedcode/python-anti-patterns)
 * [The Insider's Guide to Python Interviewing](http://www.toptal.com/python#hiring-guide)
+* Book: [Elements of Programming Interviews in Python](http://elementsofprogramminginterviews.com/sample/epilight_python_new.pdf)
+
 
 ### React
 
@@ -263,7 +265,8 @@
 ### System design
 
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-* (https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR)
+* [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+  * This is a paid course but has several free previews such as [Designing Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 * Raph Levien – [Rope Science](https://github.com/google/xi-editor/blob/master/doc/rope_science/intro.md)
 * [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
