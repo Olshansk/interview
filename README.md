@@ -167,6 +167,7 @@
 ### Videos
 
 * [How to: Work at Google – Candidate Coaching Session for Technical Interviewing [45:45]](https://www.youtube.com/watch?v=oWbUtlUhwa8)
+
 * Gayle McDowell – [Cracking the Coding Interview [1:14:24]](https://www.youtube.com/watch?v=rEJzOhC5ZtQ)
 * Gayle McDowell - [Cracking the Coding Interview (examples) [9:05]](https://www.youtube.com/watch?v=aClxtDcdpsQ)
 * [Google Recruiters Share Technical Interview Tips [31:06]](https://www.youtube.com/watch?v=qc1owf2-220)
@@ -207,6 +208,7 @@
 ### Node
 
 * [Node.js Best Practices and Tips](https://www.toptal.com/nodejs/tips-and-practices)
+* [Node.js Interview - Guide](https://elemefe.github.io/node-interview/#/sections/en-us/?id=guide)
 
 ### PHP
 
