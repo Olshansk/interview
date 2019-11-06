@@ -163,6 +163,8 @@
 * [TestDome](https://www.testdome.com/)
 * [FreeCodeCamp](https://www.freecodecamp.com/) *"Learn to code and help nonprofits"*
 * [Dynamic Programming Practice Problems](https://people.cs.clemson.edu/~bcdean/dp_practice/)
+* [Codility Lessons](https://app.codility.com/programmers/lessons/1-iterations/)
+* [Introduction to Theoretical Computer Science](https://introtcs.org/)
 
 ### Videos
 
