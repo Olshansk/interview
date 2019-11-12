@@ -272,12 +272,15 @@
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
   * This is a paid course but has several free previews such as [Designing Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
 * [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
-* Raph Levien – [Rope Science](http://abishov.com/xi-editor/docs/rope_science_00.html)
 * [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [How should I prepare system design questions for Google/Facebook interview?](http://www.quora.com/Job-Interviews/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
 * Jeff Atwood – [How Good an Estimator Are You?](http://blog.codinghorror.com/how-good-an-estimator-are-you/)
 * [0xAX/linux-insides](https://github.com/0xAX/linux-insides)
 
+Advanced but great:
+
+- Brendan Burns - [Designing Distributed Systems](https://www.amazon.com/Designing-Distributed-Systems-Patterns-Paradigms-ebook/dp/B079YTM4FC) [[pdf](http://www.istrsjournal.org/wp-content/uploads/2018/06/Designing_Distributed_Systems.pdf)]
+- Raph Levien – [Rope Science](http://abishov.com/xi-editor/docs/rope_science_00.html)
 
 ## Similar repos
 
