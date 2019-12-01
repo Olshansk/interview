@@ -83,6 +83,7 @@
 
 * [Top 10 Algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
 * [Hard interview questions that have a short recursive solution](https://www.quora.com/What-are-some-of-the-hardest-programming-questions-asked-during-an-interview-from-Google-Facebook-Microsoft-Amazon-Quora-Linkedin-Apple-Yahoo-etc-that-can-be-coded-in-a-few-lines-with-a-recursive-solution)
+* [Grow Your Technical Skills with Google](https://techdevguide.withgoogle.com/)
 
 ## Guides
 
@@ -116,6 +117,9 @@
 * [Interview Cake ($$$)](https://www.interviewcake.com/) [[review](https://www.quora.com/How-helpful-was-the-paid-program-from-Interview-Cake-in-your-interview-preparation)]
 * [How to Ace the Software Engineering Interview ($$)](https://interviewsteps.com/products/how-to-ace-the-software-engineering-interview)
 * [Grokking the System Design Interview ($$)](https://www.educative.io/collection/5668639101419520/5649050225344512)
+* [Algorithms: Design and Analysis](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
+* [Algorithms and Data Structures - Part 1](https://www.pluralsight.com/courses/ads-part1)
+* [Algorithms and Data Structures - Part 2](https://www.pluralsight.com/courses/ads2)
 
 ### Misc
 
@@ -147,6 +151,8 @@
 * [Refdash](https://refdash.com/)
 * [Gainlo](http://www.gainlo.co/)
 * [Candidacy.io](https://www.candidacy.io/)
+* [Skilled](https://www.skilledinc.com/)
+* [Gainlo](http://www.gainlo.co/#!/)
 
 ### Q&A
 * [How to prepare for my Google/Facebook interview if I have 6 months left?](http://www.quora.com/Career-Advice/What-are-the-ways-to-utilize-6-months-to-build-skill-set-to-get-into-Facebook-or-Google)
