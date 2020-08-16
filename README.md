@@ -57,6 +57,7 @@
 ### Coding practice
 
 * [LeetCode](https://leetcode.com/)
+* 	LeetCode w/ Explanations [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm/tree/english)
 * [InterviewBit](https://www.interviewbit.com/)
 * [Codility](https://codility.com/)
 * [HackerRank](https://www.hackerrank.com/)
