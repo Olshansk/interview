@@ -239,7 +239,6 @@
 * [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 * [React Interview Questions and Answers](https://www.interviewbit.com/react-interview-questions/)
 
-
 ## Other topics
 
 ### Crypto
