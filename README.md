@@ -213,6 +213,7 @@
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 * [Superhero.js](http://superherojs.com/)
 * [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
+* [Javascript Interview Questions and Answers](https://www.interviewbit.com/javascript-interview-questions/)
 
 ### Node
 
@@ -236,6 +237,7 @@
 * [markerikson/react-redux-links](https://github.com/markerikson/react-redux-links)
 * [12 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
 * [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
+* [React Interview Questions and Answers](https://www.interviewbit.com/react-interview-questions/)
 
 ## Other topics
 
