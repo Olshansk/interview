@@ -71,6 +71,8 @@
 * [CodeSignal](https://codesignal.com)
 * [CodeKata](http://codekata.com/)
 * [Firecode](https://www.firecode.io/)
+* [DailyCodingProblem](https://www.dailycodingproblem.com/)
+* [Coderbyte](https://coderbyte.com/)
 
 ### Guides
 
