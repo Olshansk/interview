@@ -99,6 +99,7 @@
 * David Byttow – [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e)
 * Thomas L. Friedman – How to Get a Job at Google [[part 1](http://mobile.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html)] [[part 2](http://mobile.nytimes.com/2014/04/20/opinion/sunday/friedman-how-to-get-a-job-at-google-part-2.html)]
 * Andrew Rothbart – [Preparing for a technical interview with programming contests](https://www.facebook.com/notes/10151298476823920)
+* Mina Azib – [Resources for Preparing for the Google Interview](https://web.archive.org/web/20170716041319/http://itsallonesandzeroes.blogspot.ro/2013/07/prepping-for-google-interview.html)
 * [u/RunninADorito](https://www.reddit.com/user/RunninADorito) – [How to Prepare for Tech Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 * Bill Sourour – [How To Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685)
 * Ammon Bartram – [How To Pass a Programming Interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
