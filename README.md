@@ -215,6 +215,7 @@
 * [Superhero.js](http://superherojs.com/)
 * [h5bp/Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [Javascript Interview Questions and Answers](https://www.interviewbit.com/javascript-interview-questions/)
+* [JavaScript Modern Interview Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 
 ### Node
 
