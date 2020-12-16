@@ -225,6 +225,7 @@
 ### PHP
 
 * [PHP The Right Way](http://www.phptherightway.com)
+* [PHP Best Practices](https://phpbestpractices.org/)
 
 ### Python
 
