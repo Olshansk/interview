@@ -71,6 +71,7 @@
 * [CodeSignal](https://codesignal.com)
 * [CodeKata](http://codekata.com/)
 * [Firecode](https://www.firecode.io/)
+* [CoderPad](https://coderpad.io/)
 
 ### Guides
 
