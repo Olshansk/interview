@@ -74,6 +74,7 @@
 * [CodeKata](http://codekata.com/)
 * [Firecode](https://www.firecode.io/)
 * [CoderPad](https://coderpad.io/)
+* [Exercism](https://exercism.io/)
 
 ### Guides
 
