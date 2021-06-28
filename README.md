@@ -291,7 +291,7 @@
 
 ### System design
 
-* [ML Eng Interview Guide by Patrick Halina](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
+* [ML Eng Interview Guide](http://patrickhalina.com/posts/ml-eng-interview-guide/) by Patrick Halina
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
