@@ -291,6 +291,8 @@
 
 ### System design
 
+* [ML Eng Interview Guide by Patrick Halina](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
+* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
   * This is a paid course but has several free previews such as [Designing Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
