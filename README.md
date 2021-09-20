@@ -292,7 +292,7 @@
 ### System design
 
 * [ML Eng Interview Guide](http://patrickhalina.com/posts/ml-eng-interview-guide/) by Patrick Halina
-* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+* [Ticket Sales Site](https://www.interviewcake.com/question/java/ticket-sales-site)
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
 * [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
   * This is a paid course but has several free previews such as [Designing Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
