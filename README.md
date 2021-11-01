@@ -215,6 +215,11 @@
 * [Go by Example](https://gobyexample.com/)
 * [Go Challenge](http://golang-challenge.org/)
 
+### Java
+
+* [Java Interview Questions](https://www.tutorialspoint.com/java/java_interview_questions.htm)
+* [Java Interview Questions](https://www.javatpoint.com/corejava-interview-questions)
+
 ### JavaScript
 
 * [Free books by Dr. Axel Rauschmayer](http://exploringjs.com/)
