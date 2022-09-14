@@ -178,6 +178,7 @@
 * [Dynamic Programming Practice Problems](https://people.cs.clemson.edu/~bcdean/dp_practice/)
 * [Codility Lessons](https://app.codility.com/programmers/lessons/1-iterations/)
 * [Introduction to Theoretical Computer Science](https://introtcs.org/)
+* [Scaler Topics](https://www.scaler.com/topics/)
 
 ### Videos
 
