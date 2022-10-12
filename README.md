@@ -91,6 +91,7 @@
 * [Grow Your Technical Skills with Google](https://techdevguide.withgoogle.com/)
 * [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 * [Data Structure Interview Questions](https://www.interviewbit.com/data-structure-interview-questions/)
+* [Sample Technical Interview Questions with Answers](https://in.indeed.com/career-advice/interviewing/technical-interview-questions)
 
 ## Guides
 
