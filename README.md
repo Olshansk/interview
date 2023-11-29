@@ -150,6 +150,7 @@
 * [Google's "Director of Engineering" Hiring Test](http://www.gwan.com/blog/20160405.html)
 * [IT-Career useful links](http://stereobooster.github.io/it-career)
 * [Resume helper](https://resumeworded.com/)
+* [Important Technical Interview Questions ](https://skillcrush.com/blog/technical-interviews/)
 
 ### Mock interviews
 
