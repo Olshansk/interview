@@ -106,6 +106,17 @@ _Found a dead link? Try [archive.is](http://archive.is/) or the [Wayback Machine
 - [u/RunninADorito](https://www.reddit.com/user/RunninADorito) – [How to Prepare for Tech Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 - Bill Sourour – [How To Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685)
 - Ammon Bartram – [How To Pass a Programming Interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
+- Tony Wu - [Medium Blog](https://tonygwu.medium.com/)
+
+  - [Guide for Behavioral Interviews](https://tonygwu.medium.com/tips-for-non-functional-interviews-e2da54a03b0e)
+  - [Mastering the Remote System Design Interview](https://tonygwu.medium.com/mastering-the-remote-system-design-interview-de7120b9ea52)
+  - [Backend Coding Interview Prep](https://tonygwu.medium.com/coding-interview-preparation-07ee75fd3753)
+  - [Frontend Coding Interview Prep](https://tonygwu.medium.com/frontend-coding-interview-prep-42243842bafd)
+  - [Questions for your Interviewer](https://tonygwu.medium.com/questions-for-your-interviewer-e64228dbe225)
+  - [General Interview Prepation](https://tonygwu.medium.com/general-interview-preparation-494788cba1af)
+  - [Behavioral Interviews: Stories (TMW)](https://tonygwu.medium.com/behavioral-interviews-stories-tmw-6a61c41292c2)
+  - [Guide to Technical Presentations / Retrospectives](https://tonygwu.medium.com/interview-prep-project-presentations-technical-retrospectives-4348a8467218)
+  - [https://tonygwu.medium.com/smarter-way-to-prep-for-system-design-backend-d89b10991151](https://tonygwu.medium.com/smarter-way-to-prep-for-system-design-backend-d89b10991151)
 
 ### Books
 
