@@ -293,6 +293,7 @@
 
 ### System design
 
+* [System Design Newsletter](https://newsletter.systemdesign.one/) by Neo Kim
 * [ML Eng Interview Guide](http://patrickhalina.com/posts/ml-eng-interview-guide/) by Patrick Halina
 * [Ticket Sales Site](https://www.interviewcake.com/question/java/ticket-sales-site)
 * [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
