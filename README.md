@@ -156,9 +156,11 @@ _Found a dead link? Try [archive.is](http://archive.is/) or the [Wayback Machine
 - Shivan Kaul Sahib - ['Clean your desk' : My Amazon interview experience](http://shivankaul.com/blog/2016/12/07/clean-your-desk-yet-another-amazon-interview-experience.html)
 - Key Values - [A website which helps to find the best team due to your values](https://www.keyvalues.io/)
 - Laurie Voss - [You suck at technical interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews)
+- Vaishnavi Yada - [How to Tackle Behavioral and Technical Questions in Data Analytics Interviews](https://medium.com/@vaishnaviyada/how-to-tackle-behavioral-and-technical-questions-in-data-analytics-interviews-2025-3d313cf56f20)
 - [Google's "Director of Engineering" Hiring Test](http://www.gwan.com/blog/20160405.html)
 - [IT-Career useful links](http://stereobooster.github.io/it-career)
 - [Resume helper](https://resumeworded.com/)
+- [Artificial Intelligence Interview Questions and Answers](https://www.appliedaicourse.com/blog/ai-interview-questions/)
 
 ### Mock interviews
 
