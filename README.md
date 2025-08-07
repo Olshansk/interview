@@ -78,6 +78,7 @@ _Found a dead link? Try [archive.is](http://archive.is/) or the [Wayback Machine
 - [Firecode](https://www.firecode.io/)
 - [CoderPad](https://coderpad.io/)
 - [Exercism](https://exercism.io/)
+- [LabEx](https://labex.io/)
 
 ### Guides
 
@@ -231,6 +232,7 @@ _Found a dead link? Try [archive.is](http://archive.is/) or the [Wayback Machine
 
 - [Go by Example](https://gobyexample.com/)
 - [Go Challenge](http://golang-challenge.org/)
+- [Learn Go by Labs](https://labex.io/learn/go)
 
 ### JavaScript
 
