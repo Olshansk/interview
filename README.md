@@ -175,6 +175,7 @@ _Found a dead link? Try [archive.is](http://archive.is/) or the [Wayback Machine
 - [Candidacy.io](https://www.candidacy.io/)
 - [Skilled](https://www.skilledinc.com/)
 - [Meetapro](https://meetapro.com/?utm_source=iterviewgit) _"Experienced FAANG interviewers"_
+- MockIF](https://mockif.com) - AI-powered mock interviews tailored to your resume and job description. Practice behavioral, technical, and full interviews with real-time feedback. Free to start.
 
 ### Q&A
 
