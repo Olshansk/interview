@@ -164,6 +164,7 @@ _Found a dead link? Try [archive.is](http://archive.is/) or the [Wayback Machine
 - [Google's "Director of Engineering" Hiring Test](http://www.gwan.com/blog/20160405.html)
 - [IT-Career useful links](http://stereobooster.github.io/it-career)
 - [Resume helper](https://resumeworded.com/)
+- [ResumeAI](https://withresumeai.com/) — AI resume builder with free ATS checks (3/day anonymous, 10/day free account)
 
 ### Mock interviews
 
