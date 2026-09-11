@@ -195,6 +195,7 @@ _Found a dead link? Try [archive.is](http://archive.is/) or the [Wayback Machine
 - [Codility Lessons](https://app.codility.com/programmers/lessons/1-iterations/)
 - [Introduction to Theoretical Computer Science](https://introtcs.org/)
 - [Scaler Topics](https://www.scaler.com/topics/)
+- [InterviewLegend](https://interviewlegend.com) - company-specific interview prep covering the coding, system design, and behavioral rounds each company actually runs
 
 ### Videos
 
