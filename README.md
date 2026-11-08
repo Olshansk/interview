@@ -170,6 +170,7 @@ _Found a dead link? Try [archive.is](http://archive.is/) or the [Wayback Machine
 - [interviewing.io](https://interviewing.io/)
 - [mockinterview.app](https://mockinterview.app)
 - [Pramp](https://www.pramp.com/) _"Practice coding interviews for free"_
+- [Practick](https://practick.io/) _"Free peer-to-peer mock interviews, with an interviewer guide for every question"_
 - [Refdash](https://refdash.com/)
 - [Gainlo](http://www.gainlo.co/)
 - [Candidacy.io](https://www.candidacy.io/)
