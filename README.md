@@ -137,7 +137,7 @@ _Found a dead link? Try [archive.is](http://archive.is/) or the [Wayback Machine
 - [Coderust 2.0 ($$)](https://www.educative.io/collection/5642554087309312/5679846214598656?authorName=Coderust)
 - [Interview Cake ($$$)](https://www.interviewcake.com/) [[review](https://www.quora.com/How-helpful-was-the-paid-program-from-Interview-Cake-in-your-interview-preparation)]
 - [How to Ace the Software Engineering Interview ($$)](https://interviewsteps.com/products/how-to-ace-the-software-engineering-interview)
-- [Grokking the System Design Interview ($$)](https://www.educative.io/collection/5668639101419520/5649050225344512)
+- [Grokking the System Design Interview ($$)](https://www.designgurus.io/course/grokking-the-system-design-interview)
 - [Algorithms: Design and Analysis](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about)
 - [Algorithms and Data Structures - Part 1](https://www.pluralsight.com/courses/ads-part1)
 - [Algorithms and Data Structures - Part 2](https://www.pluralsight.com/courses/ads2)
@@ -311,8 +311,8 @@ _Found a dead link? Try [archive.is](http://archive.is/) or the [Wayback Machine
 - [ML Eng Interview Guide](http://patrickhalina.com/posts/ml-eng-interview-guide/) by Patrick Halina
 - [Ticket Sales Site](https://www.interviewcake.com/question/java/ticket-sales-site)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
-- [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
-  - This is a paid course but has several free previews such as [Designing Instagram](https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG)
+- [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview)
+  - This is a paid course but has several free previews such as [Designing Instagram](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-instagram)
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
 - [Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 - [How should I prepare system design questions for Google/Facebook interview?](http://www.quora.com/Job-Interviews/How-should-I-prepare-system-design-questions-for-Google-Facebook-Interview)
